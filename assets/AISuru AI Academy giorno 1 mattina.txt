@@ -1,0 +1,3100 @@
+-- Dettagli riunione --
+
+Nome riunione: AISuru AI Academy giorno 1 mattina
+Data: 14/01/2025 (UTC)
+Durata: 3 ore 10 minuti
+
+-- Trascrizione --
+
+00:00
+nunzio fiore
+Sì?
+
+00:35
+fabio lecca
+Alla prossima.
+
+01:14
+nunzio fiore
+Attraverso l'occhio.
+
+01:59
+nunzio fiore
+Sottotitoli a cura di QTSS.
+
+02:35
+nunzio fiore
+Sì.
+
+03:56
+fabio lecca
+Salve, buongiorno.
+
+06:04
+nunzio fiore
+Ciao, buongiorno.
+
+06:05
+nunzio fiore
+Ciao, buongiorno.
+
+06:11
+fabio lecca
+Non ti sentiamo?
+
+06:12
+fabio lecca
+Beh, sei muto.
+
+06:13
+nunzio fiore
+Ah, ecco, scusate.
+
+06:14
+fabio lecca
+Ok, guardando la lista dei partecipanti, mancherebbero solo l'avvio.
+
+06:29
+fabio lecca
+Flavio e Matteo, se riescono.
+
+06:32
+fabio lecca
+Comunque siamo...
+
+06:33
+fabio lecca
+Cioè, poi a un certo punto, quando iniziamo, registriamo.
+
+06:37
+nunzio fiore
+Ok.
+
+06:38
+nunzio fiore
+Intanto io preparo il materiale.
+
+06:45
+fabio lecca
+Ecco, Flavio...
+
+06:55
+fabio lecca
+Oggi siamo tanti perché ho chiesto a tutti di poter seguire l'introduzione, poi comunque registriamo tutto quello.
+
+07:05
+fabio lecca
+E poi chi dovrà staccarsi si vedrà le cose.
+
+07:10
+fabio lecca
+C'è pure l'intelligenza artificiale che ci ascolta e tra scrivere, quindi proprio siamo più che coperti.
+
+07:34
+fabio lecca
+eh tu riesci a presentare sì eh.
+
+07:49
+nunzio fiore
+Io sì sì.
+
+07:56
+fabio lecca
+Delle varie funzionalità di registrazione, per capire se dovevo darti un permesso particolare.
+
+08:21
+nunzio fiore
+Devo iniziare?
+
+08:23
+fabio lecca
+Sì, sì.
+
+08:24
+fabio lecca
+Allora è arrivato Matteo.
+
+08:32
+fabio lecca
+Direi che siamo tutti.
+
+08:35
+fabio lecca
+Per quanto riguardo registriamo, quindi non è un problema.
+
+08:40
+fabio lecca
+Aspetta che faccio partire la registrazione, ok?
+
+08:42
+fabio lecca
+Così facciamo proprio la cosa ufficiale.
+
+08:47
+nunzio fiore
+Ok.
+
+08:52
+fabio lecca
+Eccoci qua.
+
+08:56
+nunzio fiore
+Perfetto.
+
+08:57
+nunzio fiore
+Iniziamo a condividere lo schermo e vi inizio a raccontare che cosa faremo oggi e poi nella giornata anche di venerdì.
+
+09:11
+nunzio fiore
+Perché noi come Memory abbiamo iniziato a tenere un corso che si chiama Aizuro AI Academy e vi illustrerò com'è composto questo corso.
+
+09:23
+nunzio fiore
+Noi con Areneum abbiamo iniziato collaborazioni su tanti fronti, alcuni di voi già l'hanno visto, abbiamo portato avanti un bel lavoro con Lenovo, prossimamente ci sarà una pubblicazione di questo lavoro e il 26 febbraio lo presenteremo anche alla E-Festival a Milano, quindi è qualcosa che sarà portato avanti sempre di più.
+
+09:48
+nunzio fiore
+Sempre con voi stiamo portando avanti anche accordi con BNL, tra i vari accordi di BNL ci sarà, nel momento in cui partiranno, la necessità di tenerli un corso della IACademy anche lì a Roma.
+
+10:03
+nunzio fiore
+Quindi l'idea che c'era venuta con Fabio Gianluca era di iniziare questa formazione e trasmettervi i concetti della formazione anche a voi, in maniera tale che poi siate anche voi in condizioni di poter fare questo corso direttamente a BNL lì a Roma.
+
+10:23
+nunzio fiore
+Quello che normalmente facciamo quindi è un corso che è diviso in due fasi, un corso base e un corso avanzato.
+
+10:32
+nunzio fiore
+Al corso base partecipano di solito chiunque perché l'obiettivo è trasmettere il concetto che chiunque può diventare una e-creator creando agenti conversazionali, basandosi sulla propria conoscenza, mentre quello avanzato ha come obiettivo di far partecipare sviluppatori e PM.
+
+10:56
+nunzio fiore
+dove la necessità di competenza non è eccessivamente elevata, è che però se si parla di CSS, HTML, JavaScript si sappia di cosa si sta parlando e laddove uno sa anche implementare potrà implementare anche alcuni esercizi.
+
+11:15
+nunzio fiore
+Questo corso normalmente appunto è diviso in cinque giorni il base e cinque giorni l'avanzato.
+
+11:22
+nunzio fiore
+Con voi abbiamo contrattato di farvi una versione in realtà un po' più succinta e vi presenterò quindi un po' tutte le cose che facciamo al corso in maniera tale che vi sia chiaro quali sono i contenuti da trasmettere poi alle persone a cui terrete il corso a vostra volta.
+
+11:45
+nunzio fiore
+Il corso base è strutturato, voi interrompetemi in ogni momento perché Oggi sarà una.
+
+11:55
+fabio lecca
+Giornata abbastanza intensa, vedremo un sacco di cose.
+
+11:57
+nunzio fiore
+No, vai tranquillo.
+
+11:59
+fabio lecca
+Io credo l'importante sia seguire lo schema delle slide, perché chiaramente su certi concetti possiamo andare più veloci, però capire la sequenza degli argomenti è importante.
+
+12:14
+nunzio fiore
+Certo, la sequenza logica è quella la parte importante.
+
+12:22
+nunzio fiore
+Il corso base è composto in uno schema che è fatto di una giornata più altre due giornate, ovvero la prima giornata si svolge con tutta la parte teorica che fa comprendere che cos'è la i-generativa.
+
+12:47
+nunzio fiore
+e che cosa significa interrogare un modello, che cosa significa interrogarlo attraverso strumenti tipo Aizuru.
+
+12:55
+nunzio fiore
+L'obiettivo appunto di questi corsi è che ne escano persone che sanno che cos'è la rigenerativa, come si interfaccia con la rigenerativa e che per farlo utilizzino Aizuru.
+
+13:05
+nunzio fiore
+Dopo una settimana c'è la seconda giornata, questo proprio studiato perché alla fine della prima giornata arriva alle persone l'informazione di cos'è un progetto conversazionale, quindi pensa al progetto che vuoi portare avanti nei prossimi giorni e raccogli il materiale, inizia a scrivere delle conversazioni, vedremo un po' che cosa viene detto agli utenti, alle persone che seguono il corso.
+
+13:33
+nunzio fiore
+Invece, la seconda, terza e quarta giornata sono strutturate con la mattina teoria e il pomeriggio workshop.
+
+13:40
+nunzio fiore
+Infatti, normalmente i corsi li teniamo almeno con due persone, fino a 15 presenti, proprio perché i workshop sono molto seguiti gli alunni, in modo tale che ognuno metta le mani in pasta direttamente.
+
+13:55
+nunzio fiore
+Noi fino all'anno scorso, alcuni di voi l'hanno anche seguito, facevamo una formazione molto più stringata rispetto a questa.
+
+14:04
+nunzio fiore
+e però abbiamo capito che era fallimentare in quanto anche se facevano tre giornate in cui si presentava la piattaforma nel suo complesso, poi le persone si ritrovavano da sole a utilizzare il software e si ritrovavano nel ok ho visto tutto e in quei giorni mi sembrava di aver capito tutto, adesso che mi ci sto ammettendo non mi ricordo niente.
+
+14:27
+nunzio fiore
+E quindi in realtà abbiamo pensato di strutturarla in mattina teoria e pomeriggio pratica, proprio perché ogni cosa, ogni argomento sarà suddiviso in modo tale che la mattina io te lo spiego ma nel pomeriggio devi essere tu a metterci le mani in pasta.
+
+14:44
+nunzio fiore
+Ora con voi non faremo questa sessione di workshop insieme perché appunto siamo da remoto e in più l'obiettivo è trasmettervi il più possibile delle cinque giornate iniziali e se riusciamo scheduleremo anche la parte più avanzata in modo tale da darvi comunque tutto il know-how utile a utilizzare Azure.
+
+15:06
+nunzio fiore
+Fabio e credo anche Francesco hanno già visto Aizuru in questo mese che hanno fatto i test per Lenovo.
+
+15:15
+fabio lecca
+Sì, anche Matteo.
+
+15:18
+nunzio fiore
+Ok, perfetto.
+
+15:19
+nunzio fiore
+Quindi confermatemi magari la sensazione.
+
+15:24
+nunzio fiore
+È logico che tante cose io adesso le spiegherò, ma mi sembra che abbiate già preso in mano l'applicativo.
+
+15:31
+fabio lecca
+Sì, poi c'è anche l'Oredana, che serve proprio per fare una cosa generale.
+
+15:43
+nunzio fiore
+Certo, però parliamo di un software che in realtà ha come principio base il fatto che deve essere utilizzato anche da persone non tecniche e che quindi deve essere semplice.
+
+15:59
+nunzio fiore
+Però noi comunque andremo a spiegare tanti concetti.
+
+16:05
+nunzio fiore
+Io adesso andrò un po' veloce, ma quello che state vedendo occupa la prima giornata.
+
+16:13
+nunzio fiore
+quindi abbiamo parlato di quello che sarà parlere si parla di quello che è il corso normalmente e il fatto che oggi si farà la in questa prima presentazione si guarderà la storia della e-generativa questo perché un'altra delle cose che noi sottolineiamo e che abbiamo capito in questi anni è che abbiamo visto anche progetti belli da ragliare perché non c'è una consapevolezza di che cosa realmente è l'AI generativa.
+
+16:47
+nunzio fiore
+Quindi per noi l'AI Academy diventa anche un funnel importante per certificare che un cliente sia un cliente adatto a noi e noi il fornitore adatto a quel cliente, ovvero sfatiamo un po' tutta la magia che c'è intorno all'AI, cerchiamo di usare poco la parola intelligenza e molto di più la parola modello linguistico.
+
+17:06
+nunzio fiore
+e facciamo capire di che cosa realmente si sta parlando, in maniera tale che alla fine di questo corso le persone abbiano compreso il reale potenziale dei modelli generativi.
+
+17:17
+nunzio fiore
+si parte da una storia, perché comunque anche se non si va specificatamente nel tecnico, perché comunque ci saranno persone presenti che possono essere anche persone di amministrazione, una persona che ha partecipato al primo corso a novembre-dicembre, alla fine del corso era una persona dell'amministrazione, però alla fine del corso si è fatta la sua AI per gestire come si deve gestire l'IVA in determinati casi.
+
+17:47
+nunzio fiore
+è qualcosa che è alla portata di chiunque, però un po' di storia la facciamo proprio perché è giusto conoscere.
+
+17:56
+nunzio fiore
+Per noi è importante conoscere, poi vedrete che fa parte anche della nostra strategia del 2025, proprio perché anche la IACT, tra le cose che si mette in produzione fin da subito è le aziende che adottano la rigenerativa devono fare formazione interna su che cos'è la rigenerativa.
+
+18:18
+nunzio fiore
+Quindi si farà la storia, si farà un po' di base di Prompt Engineering, come strutturare a quel punto un progetto conversazionale, come valuti il tuo interlocutore, i contenuti e come devono essere strutturati i contenuti.
+
+18:32
+nunzio fiore
+Si fanno degli accenni quindi a Privacy, a IACT e come ISURU si differenzia sul mercato rispetto a questo.
+
+18:44
+nunzio fiore
+Questo è quello che vi ho appena detto, appunto, il corso è strutturato in 5 giorni base e 5 avanzato.
+
+18:51
+nunzio fiore
+In questo base, appunto, si varderà quello che stiamo per dire adesso, poi dopo, nella giornata di oggi, se riusciamo, iniziamo a fare anche già almeno la giornata 2, quindi la presentazione di Aizuru e della parte di Prompting.
+
+19:04
+nunzio fiore
+Nel giorno 3 c'è la gestione dei contenuti, nel giorno 4 personalizzazione dei contenuti e...
+
+19:12
+nunzio fiore
+Nel giorno 5 approfondimenti e funzioni.
+
+19:17
+nunzio fiore
+Faccio solo uno screenshot perché mando al team di formatori.
+
+19:22
+nunzio fiore
+Perfetto.
+
+19:24
+nunzio fiore
+Perché adesso, tanto lo vedete ma non è nessun segreto, mi sostituite nel giorno 1 in termine team con agenti.
+
+19:40
+nunzio fiore
+Vedrete, in diversi punti è rimasto ancora il termine twin, perché storicamente noi partivamo dal concetto di gemello digitale della persona, della conoscenza e quant'altro.
+
+19:52
+nunzio fiore
+Nel 2025 finalmente il mondo si sta allineando a quello che noi facevamo da anni, solo che il mondo ha iniziato a usare il termine agente per lo più e quindi anche noi ci stiamo adeguando dicendo che sono agenti.
+
+20:06
+nunzio fiore
+Ma è la stessa cosa che facciamo da due anni, qualcuno di voi l'ha anche iniziato a fare quando abbiamo fatto dei progetti sulla piattaforma Raneum e richiamevamo Twin.
+
+20:16
+nunzio fiore
+Quindi gestione della conoscenza dell'agente, personalizzazione dell'agente e approfondimenti e funzioni avanzate.
+
+20:26
+nunzio fiore
+Invece nel corso avanzato si vedrà proprio come programmare una mini-app, come interrogare l'API per poter fare dei servizi più avanzati.
+
+20:37
+nunzio fiore
+Chia Memory è un'azienda che è nata nel 2017 per creare gemelli digitali di persone utilizzando interfacce conversazionali e poi dopo il mondo è andato nella storia che tutti avete visto e che quindi ci ha certificati per aver creato una piattaforma semplice da utilizzare per creare interfacce conversazionali.
+
+20:59
+nunzio fiore
+Il nostro prodotto si chiama Aizuru e è una piattaforma SaaS, quindi a sottoscrizione potete andare su Aizuru e vi darei la possibilità, come diamo a tutti i partecipanti al corso, di registrarvi dopo ad Aizuru e daremo a tutti 500 crediti gratis per provare tutte le funzionalità di Aizuru.
+
+21:21
+nunzio fiore
+Il nostro focus aziendale è semplificare l'accesso alle tecnologie DLI conversazionali e sfruttare in modo tale che chiunque possa distribuirle in applicazioni, totem, servizi e quant'altro e integrarle coi processi aziendali.
+
+21:42
+nunzio fiore
+Prima un'altra cosa che vi faccio vedere Ho chiesto anche un'altra cosa al team dei formatore.
+
+21:50
+nunzio fiore
+Poi tu, Fabio, sei dentro a quel channel.
+
+21:52
+fabio lecca
+Sì, sì.
+
+21:55
+nunzio fiore
+Ho chiesto il fatto di passarmi il link a questo documento che condividerò anche con voi adesso.
+
+22:03
+nunzio fiore
+Qui nella chat, magari.
+
+22:04
+nunzio fiore
+Non c'è una chat.
+
+22:06
+nunzio fiore
+Non ho alcuna chat.
+
+22:11
+nunzio fiore
+Sì, però io non la vedo.
+
+22:12
+nunzio fiore
+Ah, no, è qua.
+
+22:14
+nunzio fiore
+Ok, eccolo.
+
+22:19
+nunzio fiore
+Questo è un documento che è stato fatto dai vari formatori, che fa da supporto al formatore stesso, in modo tale che ogni formatore non si senta abbandonato nel tenere il corso, perché per ogni giornata sono spiegati anche alcuni concetti chiave, C'è un glossario, c'è tutto quello che aiuta il formatore a capire la presentazione che stiamo vedendo.
+
+22:48
+nunzio fiore
+Quindi, oltre alla presentazione che vi sto facendo, questo documento vi aiuta ulteriormente a tenere la presentazione esattamente come la teniamo noi.
+
+22:57
+nunzio fiore
+È il manuale del formatore.
+
+23:01
+fabio lecca
+Per uniformità dell'erogazione del corso.
+
+23:06
+nunzio fiore
+Sì, esatto, perché noi stiamo coinvolgendo diverse aziende a tenerlo, però l'imprinting deve essere quello memory, quindi i concetti che ci permette di trasmettere quali sono, il modo con cui raccontiamo le cose qual è.
+
+23:26
+nunzio fiore
+Per iniziare questo viaggio, cosa mostriamo?
+
+23:28
+nunzio fiore
+Mostriamo ad esempio un'immagine che avevo creato nel 2020, l'avevo creata e l'avevo fatta diventare addirittura un...
+
+23:39
+nunzio fiore
+Qual era il trend che seguivamo, Fabio, nel 2020?
+
+23:42
+nunzio fiore
+Meme.
+
+23:42
+nunzio fiore
+NFT.
+
+23:45
+nunzio fiore
+Esatto.
+
+23:54
+nunzio fiore
+perché era un'immagine generata da lei e il mondo si stupiva, però vedete che di per sé fa anche un po' schifo, nel senso non era niente di che.
+
+24:02
+nunzio fiore
+Però poi nel 2024 invece siamo arrivati a questa cosa dove la differenza tra queste due immagini, addirittura forse quella lì reale sembra meno reale, perché quella reale qui a sinistra è Quella generata con la i è qui a destra.
+
+24:19
+nunzio fiore
+In questa immagine, quando lo tengo io il corso, racconto che questa l'ho mandata a mio padre e mi ha detto dove eri.
+
+24:26
+nunzio fiore
+Quindi ci siamo ritrovati in quattro anni a crescere a una velocità esorbitante e passare da questa qua a questa qua.
+
+24:35
+nunzio fiore
+E tutto questo discorso vale anche per i modelli linguistici.
+
+24:40
+nunzio fiore
+Ci troviamo nel pieno delle curva di AIP, su quello che è il mondo dell'AI.
+
+24:48
+nunzio fiore
+Tutti parlano di AI e qualsiasi cosa ci chiedono, AI capiterà sicuramente anche a voi e anche quando magari ho un semplice algoritmo c'è chi ti chiede un AI.
+
+24:58
+nunzio fiore
+È un po' come quando è nato l'App Store, qualsiasi programma era un'app, è un po' come quando negli ultimi vent'anni ogni startup era una SRL o nel 2021 ogni modello 3D era un metaverso.
+
+25:10
+nunzio fiore
+Adesso qualsiasi programma è AI.
+
+25:12
+nunzio fiore
+Quello che noi ci teniamo a trasmettere è che La parola intelligenza è quella che ha fatto il danno, perché in realtà parliamo di modelli linguistici e racconteremo che cosa sono questi modelli linguistici.
+
+25:28
+nunzio fiore
+Siamo fuori finalmente, secondo me, dalla onda di hype, perché appunto ci siamo depurati della magia che le persone percepivano nel 2020 e poi dopo ci dicevano che il programma Azuru non funziona.
+
+25:43
+nunzio fiore
+Oppure si è detto no, Isuru è bello, ma è OpenAI che non funziona.
+
+25:48
+nunzio fiore
+Tutte cose che in realtà avevano a che fare col fatto che in realtà non si era capito a cosa servivano i modelli linguistici.
+
+25:55
+nunzio fiore
+Adesso un po' si è capito, quindi siamo in questo momento qua, e quindi si stanno iniziando a utilizzare modelli linguistici per progetti reali.
+
+26:07
+nunzio fiore
+Quindi vedrete in questa presentazione, nella presentazione che vi ho dato a link, vedrete tutto quello che è la storia dell'AI generativa e come siamo arrivati alle soluzioni che abbiamo adesso.
+
+26:22
+nunzio fiore
+Inizialmente avevamo dei modelli di machine learning che funzionavano in un certo modo, poi c'è stata una grossa rivoluzione del riconoscimento linguistico e noi nel 2017 l'avevamo abbracciata completamente e vedremo con quali tecnologie.
+
+26:37
+nunzio fiore
+La grossa rivoluzione è stata l'affermarsi della tecnologia dei GPT che grazie ad OpenAI, che ha sdoganato questa tecnologia dall'essere di nicchia a diventare qualcosa un po' per tutti, è diventato qualcosa che ha fatto esplodere questi strumenti per gli utilizzi più disparati.
+
+26:58
+nunzio fiore
+Io qui sto andando molto più veloce di come andiamo normalmente al corso, perché appunto, vi ripeto, questo corso è fatto per prendersi anche tutto il tempo di raccontare queste presentazioni per bene.
+
+27:12
+nunzio fiore
+Se qualcosa non è chiaro, magari interrompetemi.
+
+27:16
+fabio lecca
+Sì, vai, tanto anche gli altri, se avete dubbi intervenite, però per adesso sul target siamo perfettamente in linea.
+
+27:28
+nunzio fiore
+Perfetto, grazie.
+
+27:33
+nunzio fiore
+Quindi la storia della e-generativa fa capire come all'inizio erano state stese le basi per quelli che erano i primi importanti passi che sono stati fatti con il machine learning, che grazie all'evoluzione dell'era dei dati e dei social network in cui noi abbiamo dato una valanga di dati utili all'AI per essere analizzati, ecco che siamo arrivati ad avere tantissimi dati, ma non c'era tanta evoluzione dei sistemi finché non c'è stata anche una grossa evoluzione tecnologica, quindi quando le GPU erano nate per sistemi grafici e per far girare al meglio videogiochi, in realtà si sono rivelati strumenti perfetti per far girare anche modelli linguistici potenti.
+
+28:22
+nunzio fiore
+e a quel punto se siamo riusciti a far girare programmi, che dopo vedremo più nel dettaglio, molto meglio.
+
+28:32
+nunzio fiore
+per farsi che le elaborazioni, che magari richiedevano molto più tempo, prima iniziavano a richiedere pochi minuti, allora si iniziava a parlare di un'interazione quasi conversazionale.
+
+28:44
+nunzio fiore
+Una cosa, uno dei concetti che ripeteremo tanto durante questo corso, che ripetiamo sì, quindi anche come formatori dovete ripetere tanto, è che la conversazionale è l'illusione che ha l'umano.
+
+28:57
+nunzio fiore
+Noi abbiamo un'illusione che sia una conversazione con il modello linguistico, il modello linguistico altro non fa che completare un testo e vedremo bene nel dettaglio cosa significa questo.
+
+29:07
+nunzio fiore
+Quindi, gli si passa del testo e questo modello va a completarlo.
+
+29:13
+nunzio fiore
+Le persone che avrete davanti avranno una gran confusione in testa.
+
+29:17
+nunzio fiore
+perché vengono da quello che i media gli hanno trasmesso nel bene e nel male, quindi dall'AI che ti ruba il lavoro all'AI che hai superpotere e puoi fare di tutto, perché vengono dalla, come anche OpenAI gliela ha venduta.
+
+29:32
+nunzio fiore
+OpenAI la sta vendendo malissimo, la sta vendendo come l'AI è chat GPT.
+
+29:39
+nunzio fiore
+e il modello linguistico è chat gpt in realtà la grande confusione è che tanti fanno domande del tipo ah ma allora chat gpt sa tutto perché io faccio una domanda e lui interroga internet e quindi sa rispondere a tutto in realtà no vedremo nel dettaglio cosa significa un modello linguistico e quand'è che viene interrogato internet da chi Quindi siamo arrivati a un momento interessante della storia in quanto adesso abbiamo le AI che sono utilizzate ovunque intorno a noi grazie al fatto che la tecnologia, anche hardware, ha reso possibili test come ad esempio quello che abbiamo fatto insieme con voi e Lenovo.
+
+30:22
+nunzio fiore
+Ed era inimmaginabile questa cosa, secondo me, confermatemi magari anche Fabio, eccetera, Ma se dicevamo di fare questo test che abbiamo fatto in dicembre, avessimo detto nel 2023, probabilmente avremmo detto non ti lanciare neanche.
+
+30:38
+fabio lecca
+No, infatti lo ripeto anche per gli altri che non tutti sanno quello che abbiamo fatto, però appunto ci hanno dato una macchina molto potente per sperimentare i modelli dell'EM open source e adesso la disponibilità dei modelli è tale da rivaleggiare di partner commerciali.
+
+31:00
+fabio lecca
+Ovviamente un anno e mezzo fa non c'era nulla del genere, né come.
+
+31:06
+nunzio fiore
+Di.
+
+31:06
+fabio lecca
+Modelli né come numero di parametri.
+
+31:09
+fabio lecca
+Invece noi abbiamo visto che attualmente è sensato per un'azienda staccarsi dai servizi cloud e installare in locale il proprio motore LLM per mantenere la privacy e per abbassare i costi a consumo di questi servizi.
+
+31:27
+nunzio fiore
+Esattamente.
+
+31:30
+nunzio fiore
+Addirittura Massimo Chiriatti, CTO di Lenovo, spinge per pubblicare il report che abbiamo fatto il più velocemente possibile, parlarne eventualmente ad eventi il più velocemente possibile, perché tutti abbiamo la consapevolezza che quello che stiamo vedendo oggi tra quattro mesi è vecchio.
+
+31:50
+nunzio fiore
+Perché questa curva esponenziale è reale.
+
+31:54
+nunzio fiore
+Durante il mese di test sono usciti N modelli.
+
+31:58
+fabio lecca
+È uscito FI4 ed è uscito DeepSeek V3 e quindi in quei 30 giorni già stava per diventare vecchio, figuriamoci nei prossimi 6 mesi.
+
+32:11
+nunzio fiore
+Questo a livello software, ma in più anche a livello hardware, perché le macchine che ci ha dato Lenovo, iperpotente, da 70 mila euro, Nvidia ha fatto degli annunci che un po' fanno pensare.
+
+32:24
+nunzio fiore
+anche lì alcuni dei modelli testati potrebbero girare anche su dell'hardware che costa un dieci per cento quindi questo è un po' il punto in cui ci troviamo e questo è tutto figlio del fatto che che la curva di crescita di questi di questa Tecnologia è una curva esponenziale e essendo esponenziale ed essendo che noi ormai ci troviamo qua, la crescita sta veramente facendoci vedere che le cose cambiano un mese con l'altro.
+
+33:05
+nunzio fiore
+Un'altra cosa quindi come ai creator che noi consigliamo è, qui è il momento anche di prendere decisioni.
+
+33:12
+nunzio fiore
+A giugno.
+
+33:14
+nunzio fiore
+Cosa è successo?
+
+33:15
+nunzio fiore
+Che GPT4 e GPT4O che sembravano funzionare da Dio in realtà hanno iniziato a funzionare malissimo, rispondevano male, non riuscivano ad andare ed è stato il momento in cui noi abbiamo completamente switchato tutti i nostri problemi su CloudSonnet 3.5 che come vedremo dopo ha un ottimo contesto come dimensioni e che soprattutto non ha i problemi di altri modelli dove un concetto deve essere ripetuto anne e volte per far sì che il modello capisca che quel concetto è importante, ma capisce molto bene il contesto e dopo approfondiamo le cose.
+
+33:53
+nunzio fiore
+Ora, vi sto accennando questo perché perché è vero che da giugno ad adesso ci sono state tantissime altre novità però qui anche nel discorso del o facciamo stiamo a guardare quindi si escono modelli si cambiano le macchine l'unica cosa che ci portiamo a casa da questo tipo di studi che stiamo facendo di progetti che portiamo avanti è bisogna conoscere tenersi allineati ma scegliere anche un qualcosa utilizzerai per i prossimi sei mesi.
+
+34:24
+nunzio fiore
+In modo tale che continui a guardare poi al massimo switchi a una soluzione migliore o valuti se non rimanere nella tua finché il mondo non rimane perturbato.
+
+34:36
+nunzio fiore
+Perché noi ad esempio abbiamo adottato Cloud Sonnet 3.5, devo dire che da giugno ad adesso continua a funzionare bene anche se sono uscite altre cose non ho switchato i progetti perché altrimenti, se continuiamo a switchare, non andiamo avanti.
+
+34:53
+nunzio fiore
+Però, appunto, questa linea ci porta davanti a un scenario che dice, tieniti sempre aggiornato, perché ogni sei mesi l'ideale sarebbe anche rivalutare quello che stai facendo e come andrebbe fatto.
+
+35:08
+nunzio fiore
+Il discorso è che stanno procedendo così veloci da passare da, così come nell'immagine di Bono è diventata poi l'immagine di quell'altro Bono che avete visto che era non soffiore, e anche coi modelli linguistici siamo davanti a una cosa di questo tipo.
+
+35:28
+nunzio fiore
+davanti a modelli che nel 2017-18 rispondevano in maniera decisamente fatta male e si capiva che non erano test neanche utilizzabili, a dilemma etici, per cui adesso abbiamo dei test che non si sa se sono stati fatti dall'uomo alla macchina.
+
+35:47
+nunzio fiore
+Abbiamo anche noi avuto dei primi dilemmi etici, dopo ve li illustreremo, quando abbiamo iniziato a sviluppare, la memoria delle nostre AI e i risultati del nostro sviluppo hanno portato a delle cose interessanti che ci hanno fatto però valutare la vogliamo fare veramente questa cosa o è meglio di no.
+
+36:09
+nunzio fiore
+Tutto questo rimane appunto confinato nella parola intelligenza artificiale che però è un mondo vasto fatto di cerchi concentrici e noi ci occupiamo prevalentemente in realtà di quest'ultimo cerchio della parte AI generativa e in realtà soltanto di alcune parti.
+
+36:29
+nunzio fiore
+Noi come Memory ci occupiamo della parte della generazione testuale fondamentalmente.
+
+36:39
+nunzio fiore
+Raccontiamo in questo corso un po' che cosa sono le altre cose che hanno portato alla igiene narrativa, perché quel schema a cerchi può essere visto anche come una storia che ha portato al cerchio più interno.
+
+36:54
+nunzio fiore
+Quindi questa storia parte dai programmi di Machine Learning, che sono i programmi che hanno imparato sulla base di milioni di dati, a poterci dire se una cosa che andiamo a chiedere a questo programma di Machine Learning è simile o meno a qualcosa che hanno imparato a riconoscere.
+
+37:12
+nunzio fiore
+Così come i programmi di Deep Learning, hanno i programmi di...
+
+37:18
+nunzio fiore
+qui c'è diverse tipologie di Machine Learning che raccontiamo, ma non ci soffermiamo in realtà più di tanto, proprio perché le persone non sono molto tecniche, le persone che partecipano, ma è giusto per raccontargli Il fatto che esistono diversi programmi di Machine Learning, ovvero sono programmi dove ci può essere anche altri programmi o umani che supervisionano i risultati, dicono se sono corretti o meno, come funziona quindi il fatto di passare questi dati e fare in maniera tale che i programmi di Machine Learning imparino.
+
+37:53
+nunzio fiore
+Invece una sottobranchia dei programmi di Machine Learning sono i programmi di Deep Learning, ovvero programmi a cui tu, creando dei speciali programmi che si chiamano reti neurali, riesci ad esempio a dire non tanto riconoscere se questa immagine o se questo testo è simile a quello che ti ho passato, ma addirittura li puoi dire, fammi un'immagine simile a quella che ti ho passato.
+
+38:20
+nunzio fiore
+Quindi, se ti ho insegnato a riconoscere le immagini delle case e ti chiedo di generarmi l'immagine di una casa, tramite un programma di deep learning, una rete neurale, si riesce ad arrivare a questo tipo di prestazioni.
+
+38:33
+nunzio fiore
+Anche lì ci sono tante tipologie di reti, ne elenchiamo alcune, che però appunto in queste slide sono tutte molto descrittive, quindi sono fatte apposta per rilasciarle poi a fine giornata ai partecipanti, in modo tale che possono anche approfondire senza troppe difficoltà.
+
+38:51
+nunzio fiore
+Una cosa che, diciamo, mi ero dimenticato, all'inizio del corso, ma c'è scritto nel diario del formatore, è anche che diciamo alle persone mettetevi da parte tutte le parole che ritenete essere complesse, perché alla fine della prima giornata gli si darà un esercizio su come utilizzare le parole che si sono annotate e come risolversi attraverso l'AI il fatto di poter avere la spiegazione di tutte quelle parole.
+
+39:20
+nunzio fiore
+Quindi, anche se ci sono concetti complessi, le persone si metteranno, i partecipanti al corso si metteranno da parte queste parole proprio perché gli insegneremo anche a utilizzare l'AI per quello che è utile utilizzarlo, ovvero darti il supporto e darti i superpoteri perché lei ti spieghi, con le tue conoscenze e adattandosi a te, anche altri tipi di concetti.
+
+39:48
+nunzio fiore
+Per questo parliamo di alcune tipologie di reti e diamo delle spiegazioni su alcune tipologie di reti.
+
+39:56
+nunzio fiore
+Però su questa parte noi andiamo abbastanza veloci perché la parte su cui ci andiamo dopo a focalizzare di più è questa.
+
+40:06
+nunzio fiore
+Quindi, vero programmi di Machine Learning, Deep Learning e tanti tipi di reti per arrivare a spiegare come funzionavano i programmi di generazione di test o di generazione di immagini, Ma la parte che ha rivoluzionato un po' tutti, e per noi è dove siamo partiti, è la parte di NLP, ovvero Riconoscimento Linguistico Natural Language Processing.
+
+40:34
+nunzio fiore
+Questa parte fondamentalmente porta con sé alcuni concetti, in particolare il fatto di aver studiato dei metodi per fare analisi grammaticali, scomposizione dei testi in token, quindi in parti parole, e soprattutto la parte di Word Embedding, che è quella che spieghiamo un po' di più.
+
+40:56
+nunzio fiore
+Ovvero, che spiegheremo un po' di più.
+
+40:59
+nunzio fiore
+Le applicazioni delle NLP sono state fin da subito molte.
+
+41:02
+nunzio fiore
+Abbiamo visto Chatbot già molto prima, quindi del 2022 c'erano già tanti Chatbot.
+
+41:09
+nunzio fiore
+Iniziano a rispondere anche abbastanza bene.
+
+41:12
+nunzio fiore
+Sono state utilizzate le NLP per fare analisi di sentimenti e molti programmi di traduzione automatica.
+
+41:19
+nunzio fiore
+C'erano diversi problemi, ovvero l'NLP, in realtà i chatbot che utilizzavate prima del 2022 erano altamente frustranti, in quanto spesso la risposta era non ho capito, perché si basavano tutti sul capire il senso della domanda e andare su un database, ricercando una domanda o un testo che potevano essere associati a quel contenuto e poterti dare una risposta.
+
+41:54
+nunzio fiore
+Cloud aveva anche tantissimi problemi, il linguaggio ha tantissime ambiguità con cui può essere scritto, la AI si diceva sì, ma non riuscirà a capire il sarcasmo e l'ironia.
+
+42:09
+nunzio fiore
+Adesso siamo noi che non riusciamo a capire probabilmente il sarcasmo e l'ironia dell'AI generativa.
+
+42:14
+nunzio fiore
+invece fino all'NLP avevamo sicuramente questo problema, avevamo problemi di diversità linguistica, anche il senso di una frase poteva essere diverso in diverse lingue e quindi non c'era una vera comprensione del testo ma soltanto una coerenza della semantica delle frasi.
+
+42:34
+nunzio fiore
+Tutto questo era possibile attraverso la tecnologia del word embedding, ovvero le parole venivano trasformate, e noi tuttora utilizziamo meccanismi di NLP, Naisuro, e lo vedremo nei prossimi lezioni, venivano trasformate in quelli che si chiamano vettori, ovvero una serie numerica che dava degli indici in modo tale che ogni parola avesse la sua rappresentazione univoca.
+
+43:01
+nunzio fiore
+Immaginate qualcosa che non può essere disegnato sulla carta, ovvero che ognuno di questi numeri rappresenti il posizionamento in uno spazio di 300 dimensioni, perché sono 300 numeri, di un punto nello spazio.
+
+43:20
+nunzio fiore
+Ed ecco che quello che era il meccanismo fondamentale del word embedding era che queste collocazioni spaziali delle parole attraverso degli algoritmi di analisi matematica facevano in modo tale che le parole che erano più o meno simili, anche come contesto, quindi gatto e cane sono più o meno in un abito simile, si trovavano in uno spazio più o meno vicino, mentre parole che non avevano un significato simile si trovavano abbastanza lontano.
+
+43:59
+nunzio fiore
+La cosa interessante è che tutto questo posizionamento delle parole nello spazio ha fatto in maniera tale che nascesse anche una sorta di matematica delle parole, perché è una cosa interessante che se tu prendi il vettore della parola re e li sottrai il vettore della parola uomo e gli aggiungi il vettore della parola donna, ecco che ti viene fuori un vettore molto vicino alla parola regina.
+
+44:28
+nunzio fiore
+Quindi, quello che è venuto fuori è che si riusciva a utilizzare riconoscimento linguistico parlando per numeri, quindi anche al di là della...
+
+44:43
+nunzio fiore
+...si potesse capire se, dicevano dei concetti simili, se queste due frasi erano vicine nello spazio.
+
+44:51
+nunzio fiore
+Per noi questa era già stata una grande rivoluzione.
+
+44:54
+nunzio fiore
+Ci siamo sviluppati noi degli algoritmi che sfruttavano i word vector ma altri utilizzavano, soprattutto all'estero, dei database, che adesso vanno tantissimo, appunto vettoriali dove si memorizzavano questi contenuti in questa maniera e si riusciva quindi a tirar fuori contenuti tra di loro simili.
+
+45:15
+nunzio fiore
+Noi invece come Memory abbiamo un motore nostro proprietario che sa fare comunque riconoscimento linguistico e che comunque è vantaggioso perché innanzitutto in italiano funziona meglio già dal 2017, funziona meglio di quei database vettoriali.
+
+45:33
+nunzio fiore
+in più ha la possibilità di essere, e vedremo nei prossimi giorni come, ma di essere personalizzato tantissimo, quindi di poter muovere tu, a seconda della gente che stai creando, la soglia per cui ritieni che due frasi possano essere vicine tra di loro e voler dire più o meno la stessa cosa, e vedremo quindi come questo può essere utilizzato.
+
+45:57
+nunzio fiore
+Questo modo di classificare le parole, altro non è che un modo di mimare quello che fa il cervello.
+
+46:03
+nunzio fiore
+Anche il cervello ha una parte del nostro cervello dedicata al senso delle parole in un determinato spazio.
+
+46:14
+nunzio fiore
+C'è anche delle particolari problemi e danni al cervello che, come vedete in questa slide, hanno dimostrato che se quell'area è danneggiata si tende a dire una parola per un'altra solo perché è confuso il meccanismo vettoriale che il nostro cervello a sua volta dà le parole.
+
+46:37
+nunzio fiore
+ma quello che abbiamo fatto quindi con l'intelligenza artificiale conversazionale fin da subito è stato cercare di mimare l'interazione che noi abbiamo con le persone attraverso la conversazione facendo la stessa cosa con la macchina.
+
+46:54
+nunzio fiore
+I problemi del word embedding erano tantissimi ovvero a seconda di come venivano addestrati e collocati quindi queste parole c'erano anche dei grandi problemi di bias, ad esempio un problema interessante è che anche se la parola nurse non aveva nessuna accezione femminile e maschile, però per come era stato addestrato, erano stati addestrati questi motori, anche in quel database vettoriale che vi dicevo, ecco che la parola nurse necessariamente era infermiera e quindi femminile, come invece dottore era solo maschile.
+
+47:34
+nunzio fiore
+Quindi c'erano dei problemi che erano stati generati dai dati con cui erano stati creati queste database vettoriali.
+
+47:44
+nunzio fiore
+e questi erano solo alcuni dei quelli, ma poi c'erano proprio il fatto che non si riuscivano a rappresentare diversità, non si riuscivano a utilizzare in maniera sofisticata questi software perché comunque a seconda di come venivano addestrati, potevano anche dare delle risposte anche molto sbagliate.
+
+48:11
+nunzio fiore
+erano usciti diversi casi in cui il riconoscimento linguistico aveva portato a trattare anche una disparità di genere nella fase di recruiting, perché era stato addestrato a mettere sensi delle parole in determinate cose.
+
+48:30
+fabio lecca
+Io ho due esempi che si potrebbero anche usare per il discorso.
+
+48:33
+fabio lecca
+Uno, non so se te lo ricordi, l'ho pubblicato su Facebook ne approfitto per farti anche riposare la voce perché sei un monologo.
+
+48:44
+fabio lecca
+Una volta con Campagna Amica abbiamo fatto il riconoscimento di un cesto di vimini che costeneva funghi porcini e lui ci ha detto che erano serpenti e quindi questa cosa significa che il data set era fatto con foto indiane.
+
+49:01
+fabio lecca
+Quello è stato incredibile, ancora ce l'ho salvato lo screenshot.
+
+49:05
+fabio lecca
+Secondo me si potrebbe anche usare come esempio di bias nelle immagini.
+
+49:10
+fabio lecca
+Poi invece c'è un documentario fighissimo su Netflix che si chiama Coded Bias, di una ragazza di colore che lavorava all'MIT che praticamente non riusciva a far riconoscere il suo viso da un tool open source di riconoscimento facciale finché non indossava una maschera bianca.
+
+49:30
+fabio lecca
+Non so se questa cosa l'avete riseguita.
+
+49:38
+fabio lecca
+Esatto, e il documentario parla della sua storia, il fatto che ha fondato un movimento che si chiama l'Algorithmic Justice League, che praticamente combatte tutti i bias degli algoritmi in generale, perché poi non riguarda solo il riconoscimento facciale ovviamente.
+
+49:58
+fabio lecca
+Secondo me è interessante citare anche queste cose, oltre al fatto che è presente in qualunque algoritmo che viene addestrato.
+
+50:08
+nunzio fiore
+Assolutamente, infatti non riguarda soltanto la parte di NLP, perché anche come vedremo dopo nella parte di AI generative GPT, in realtà questo è un problema forte, vedremo che OpenAI ha un punto di vista americano sulle cose e che per noi Europeat potrebbe essere un grosso problema in realtà.
+
+50:30
+fabio lecca
+E poi se vuoi ci puoi aggiungere pure il fatto che altri paesi che hanno addestrato i modelli hanno altri tipi di bias, che ti ho citato DeepSeek, che è cinese, che ha le limitazioni socio-politiche, non gli puoi chiedere cos'è successo a Piazza Tiananmen perché hanno volutamente eliminato quei concetti e non te ne parla, quindi bisogna fare attenzione a tutte queste cose.
+
+50:55
+nunzio fiore
+Esattamente, esattamente.
+
+50:58
+nunzio fiore
+Quindi questo per quanto riguarda l'NLP, ma anche tutto quello che vedremo dopo.
+
+51:06
+nunzio fiore
+Per l'NLP in realtà c'erano tanti anche altri problemi, cioè le parole avevano dei significati diametramente opposti a seconda del contesto, quindi Apple poteva voler dire delle cose completamente diverse e quindi i nostri programmi potevano completamente fallire perché non riuscivano a collocare nello spazio bene le parole.
+
+51:29
+nunzio fiore
+La grossa trasformazione è arrivata appunto con i GPT, ovvero i Transformers, questa tecnologia che non si è inventata OpenAI, ma è una tecnologia che attraverso tantissimi pesi, ovvero parametri che vengono passati a un programma, cerca di prevedere qual è il pezzettino di parola che potrebbe andare a completare il testo che tu stai passando alla AI.
+
+51:57
+nunzio fiore
+Questa tecnologia appunto è stata inventata nel 2017, è stata portata alla ribalta da OpenAI nel 2022 soltanto perché OpenAI ha fatto quello lì che nessuno poteva permettersi di fare, ovvero a dire ma se io aumento questo numero di parametri a 70 miliardi di parametri, adesso non mi ricordo quanti ne aveva GPD 3.5 quando è uscito, però ha un numero di parametri molto alto.
+
+52:26
+nunzio fiore
+Che cosa succede?
+
+52:27
+nunzio fiore
+Succede che abbiamo stupito il mondo perché il modello linguistico rispondeva a uno stimolo, a un prompt, a un'istruzione, completando il testo con un testo di senso compiuto, cioè scritto bene.
+
+52:42
+nunzio fiore
+Non è detto che sia giusto quello che scriveva, infatti GPT35 scriveva tante castronerie, ma lo stupore non è arrivato dal fatto che le cose erano giuste o sbagliate, ma dal fatto che le scriveva bene.
+
+52:54
+nunzio fiore
+E questa è stata la grossa trasformazione che abbiamo visto nel 2022 davanti agli occhi di tutti.
+
+53:01
+nunzio fiore
+Quindi OpenAI ha sfruttato la tecnologia dei GPT che hanno portato a questi grossi modelli linguistici, large language model, a poter arrivare a dare delle risposte di senso compiuto perché ha aumentato il numero di parametri parecchio.
+
+53:26
+nunzio fiore
+Poi dopo da lì hanno anche cambiato alcuni modi di istruire, dopo vedremo alcuni dettagli, di istruire questi modelli, far sì che queste risposte fossero sempre più precise per evitare quella che si chiama allucinazione.
+
+53:39
+nunzio fiore
+Ma come capiremo l'allucinazione non è nell'LLM.
+
+53:46
+nunzio fiore
+Noi parliamo tanto di OpenAI perché il mondo ha conosciuto e conosce questo, ma come vi ho già accennato noi ad esempio utilizziamo CloudSonnet di Antropic e poi ce ne sono tantissimi e il documento che abbiamo fatto insieme a Araneum lo dimostra che ce ne sono molti di più di quelli che sono qui in lista, proprio perché ognuno ha anche le sue capacità, alcuni possono anche essere installati in locale.
+
+54:17
+nunzio fiore
+L'addestramento di un modello linguistico è il momento in cui questo modello linguistico impara.
+
+54:24
+nunzio fiore
+Poi vengono fatte diverse fasi di regolazione e validazione dei loro contenuti.
+
+54:29
+nunzio fiore
+La parte di cui ci occupiamo per lo più noi tramite ISURO e gli AI Creator tramite ISURO è la parte di inferenza col modello linguistico, ovvero quando io passo al modello delle informazioni e gli dico completa questo testo.
+
+54:44
+nunzio fiore
+Quindi, quello su cui ci concentreremmo di più è questa parte qua.
+
+54:55
+nunzio fiore
+Andiamo un po' più avanti.
+
+54:57
+nunzio fiore
+E qui arriviamo un po' a un concetto chiave.
+
+55:00
+nunzio fiore
+Quindi, come vi dicevo, ci sono dei concetti che noi ripetiamo tantissimo durante questi corsi.
+
+55:08
+nunzio fiore
+Un concetto chiave, appunto, è cercare di far capire alle persone Il modello linguistico non deve essere confuso con l'interfaccia che tu usi per interrogare il modello linguistico.
+
+55:18
+nunzio fiore
+L'interfaccia può essere chat GPT, può essere Cloud.
+
+55:24
+nunzio fiore
+Il grafico che avete visto prima io l'ho fatto tramite Cloud, ma è l'interfaccia che ha delle peculiarità che utilizzano il modello linguistico per fare delle attività.
+
+55:38
+nunzio fiore
+La stessa ISURO è un'interfaccia di modelli linguistici che permette al modello linguistico di poter dare delle risposte.
+
+55:46
+nunzio fiore
+La fase dell'istruzione del modello linguistico si interrompe a una certa data.
+
+55:51
+nunzio fiore
+Quindi, ad esempio, CloudSonnet 3.5 ha la sua conoscenza ferma al 20 aprile 2024.
+
+55:56
+nunzio fiore
+ChatGPT 4.0 mi sembra che sia ferma ancora a novembre del 2023, se non sbaglio.
+
+56:04
+nunzio fiore
+Il modello linguistico ha una sua conoscenza e al di là del modello linguistico ci sono, e vedremo come, diversi modi per interrogarlo e dargli al modello la capacità di poter dare delle risposte anche su dati che lui non ha, perché tutto quello che è successo dopo aprile del 2024 noi dovremmo passaglielo, oppure alcune informazioni che riguardano come noi trattiamo i dati noi dobbiamo passagliele, Quello che è il concetto chiave è che il modello linguistico è stato addestrato solo per completare il testo.
+
+56:38
+nunzio fiore
+Dopo vi racconterò una piccola storiella che è la trama di un video che faremo comunque uscire a breve.
+
+56:49
+nunzio fiore
+I modelli linguistici vengono utilizzati da tantissimi tipi di interfaccia ormai a giorno d'oggi.
+
+56:57
+nunzio fiore
+Ad esempio qui vedete Cursor che è un programma che noi utilizziamo per programmare attraverso i modelli linguistici.
+
+57:06
+nunzio fiore
+Vi faccio vedere questo video.
+
+57:20
+fabio lecca
+Non so se c'è dell'audio che non si sente.
+
+57:22
+nunzio fiore
+Non si sente l'audio?
+
+57:30
+nunzio fiore
+durante la presentazione abbiamo disseminato molti video comunque che supportano il formatore questo è.
+
+57:50
+fabio lecca
+Il primo che vedete e almeno fa una pausa poi dici quando vuoi fare una pausa anche due.
+
+57:56
+nunzio fiore
+Vediamo i prossimi tre slide e poi facciamo una pausa.
+
+58:04
+nunzio fiore
+Ditemi se sentite l'audio.
+
+58:06
+nunzio fiore
+Lo sentite?
+
+58:13
+nunzio fiore
+No.
+
+58:15
+nunzio fiore
+No.
+
+58:17
+nunzio fiore
+Allora, riproviamo con finestra.
+
+58:19
+nunzio fiore
+Per condividere audio condividi solo una scheda.
+
+58:42
+nunzio fiore
+La forza di Cursor è che puoi interagire con il tuo progetto di programmazione attraverso il modello linguistico.
+
+58:48
+nunzio fiore
+In questo caso sto utilizzando proprio Cloud 3.5 Sonnet.
+
+58:53
+nunzio fiore
+In questo esempio lo utilizzeremo per creare un semplice progetto web, un'applicazione web capace di registrare i sondi dell'utente e poi analizzarli.
+
+59:03
+nunzio fiore
+Come vedete io ho descritto l'obiettivo, la descrizione delle singole schermate e poi io ho anche detto lo stile delle web app e la navigazione.
+
+59:13
+nunzio fiore
+Adesso Cursor sta generando le pagine che io ho indicato.
+
+59:18
+nunzio fiore
+Come vedete, il mio lavoro consiste nell'accettare una ad una le pagine che sta creando.
+
+59:24
+nunzio fiore
+Mentre lui lavora, parliamo un attimo delle potenzialità di tale strumento.
+
+59:30
+nunzio fiore
+Cursor brilla in alcuni scenari principali.
+
+59:33
+nunzio fiore
+Il primo è di certo la prototipazione.
+
+59:35
+nunzio fiore
+Puoi buttare giù idee velocemente e generare progetti in tempi in record.
+
+59:41
+nunzio fiore
+Un altro caso d'uso è l'esplorazione di codice.
+
+59:43
+nunzio fiore
+Immagina di poter fare domande dirette a tua cartella di progetto e ricevere risposte contestuali.
+
+59:50
+nunzio fiore
+Beh, con Cursor questo sogno diventa realtà.
+
+59:53
+nunzio fiore
+La regola d'oro è che più sei esperto di programmazione, più Cursor diventa potente.
+
+59:59
+nunzio fiore
+Perché sai cosa vuoi ottenere e puoi guidare l'AI nella direzione giusta.
+
+60:06
+nunzio fiore
+Cursor ha terminato di generare il progetto e non ci resta altro che visualizzare il risultato.
+
+60:13
+nunzio fiore
+Questa è la home, la pagina dove l'utente può raccontare con un audio il proprio sogno.
+
+60:18
+nunzio fiore
+Il sistema genera una trascrizione, un'analisi e un'immagine.
+
+60:30
+nunzio fiore
+Poi abbiamo una pagina profilo dell'utente con alcune possibilità di personalizzazione.
+
+60:40
+nunzio fiore
+Infine, abbiamo una pagina di Analytics, con tutti i lati raccolti dai nostri vari sogni.
+
+60:56
+nunzio fiore
+Non è poco quello che abbiamo visto in questo video, no?
+
+60:59
+nunzio fiore
+Cioè, l'interfacciarsi con un modello linguistico capace, come Cloud, e attraverso un'interfaccia capace di gestire bene questo tipo di modelli ci porta a generare un'interfaccia rapidamente.
+
+61:19
+nunzio fiore
+Considerate che i nostri AI creators spesso non sono degli sviluppatori.
+
+61:23
+nunzio fiore
+Quello di cui avete sentito la voce qui era uno dei nostri Daniel, non so se l'avete conosciuto tutti, ma non è uno sviluppatore, ma lui ormai fa diversi programmi per noi attraverso l'AI e, devo dire, li fa in alcuni casi in maniera anche più libera da alcuni preconcetti che mi ci metto in mezzo anch'io come sviluppatore 47enne che abbiamo imparato a fare le cose in un certo modo.
+
+61:54
+nunzio fiore
+In realtà si iniziano a vedere dei grossi poteri nell'utilizzare i modelli linguistici.
+
+62:00
+nunzio fiore
+Un altro video interessante è questo qua.
+
+62:04
+nunzio fiore
+Questa presentazione che state vedendo l'abbiamo fatta con Gamma e facciamo vedere come l'interfaccia utilizza il modello linguistico per fare delle cose sorprendenti.
+
+62:26
+nunzio fiore
+Qui l'audio non si sente bene perché si sente più la musica che la voce.
+
+62:37
+nunzio fiore
+Quindi ve lo racconto un attimo io.
+
+62:40
+nunzio fiore
+Qui la cosa che state vedendo in questo video è che la persona ha incollato un testo di cosa vorrebbe fare con una determinata presentazione e poi va semplicemente a dire al programma di gamma aiutami a creare questa presentazione.
+
+63:01
+nunzio fiore
+Per chi la sto scrivendo, che tipo di linguaggio voglio utilizzare, quante slide voglio che siano create.
+
+63:08
+nunzio fiore
+Qui addirittura lui aveva detto slide 1 e slide 2, in realtà puoi lasciare gamma libera anche di poter fare lei quello che vuole e nel momento in cui tu hai detto ok la cosa mi funziona, Lanci semplicemente genera.
+
+63:26
+nunzio fiore
+Questa generazione diventa molto interessante perché Ecco che lei sta andando a creare questa presentazione approfondendo anche diversi punti utilizzando dei motori sia di generazione di testo che di generazione di immagini e queste presentazioni sono veramente interessanti.
+
+63:50
+nunzio fiore
+Ne abbiamo fatte per il Comune di Firenze, live, alcune che hanno salvato la giornata di diversa gente.
+
+63:58
+nunzio fiore
+Quindi anche qui si può apprezzare come il modello linguistico sia utilizzato per arrivare a fare delle cose sorprendenti.
+
+64:11
+nunzio fiore
+L'ultima slide prima di fare una pausa.
+
+64:18
+nunzio fiore
+È semplicemente che anche Aizuru stessa, è un'interfaccia che, come vedremo, ti permette di utilizzare N modelli linguistici per poter fare diverse cose, ma non sarà mai il modello linguistico a fare le cose da sé.
+
+64:36
+nunzio fiore
+I modelli linguistici funzionano bene solo se tu gli passi tutto quello che tu vuoi che il modello stesso dica.
+
+64:43
+nunzio fiore
+Noi utilizziamo dei prompt che Fabio e gli altri avevano visto anche nei dettagli molto prolissi, dove si cerca di mettere il più informazioni possibili per avere delle risposte adeguate.
+
+64:56
+nunzio fiore
+Il risultato però di tutto questo lavoro, e dopo ne vedremo diversi esempi, è che abbiamo delle risposte veramente molto precise e che il nostro modo di interrogare l'LLM porta le persone a poter avere degli agenti che iniziano a funzionare veramente molto bene fin da subito.
+
+65:15
+nunzio fiore
+Adesso facciamo magari una pausa di un quarto d'ora, E poi dopo ti ritroviamo magari su questo link, a meno che non scada.
+
+65:23
+fabio lecca
+Sì, sì, tanto il link dura tutto il tempo che vogliamo.
+
+65:27
+nunzio fiore
+Ok, allora io metto in pausa soltanto microfono e telecamera e ci troviamo qua tra le 11.
+
+65:33
+fabio lecca
+Perfetto.
+
+65:35
+nunzio fiore
+Ok, a dopo.
+
+66:22
+nunzio fiore
+FINE.
+
+79:27
+fabio lecca
+È riaccomando.
+
+80:32
+fabio lecca
+Eccoci eccoci allora io se siamo pronti ripendo a registrare Vado a aspettare.
+
+80:42
+nunzio fiore
+Avvio.
+
+81:01
+nunzio fiore
+Vi ho inviato intanto il link a questa presentazione e al documento del diario del formatore, perché comunque così riesco ad andare magari un po' più veloce.
+
+81:11
+nunzio fiore
+Poi voi potete riguardarla e se ci sono dubbi comunque farci sapere.
+
+81:18
+nunzio fiore
+Adesso vado un po' più rapido sulle nuove cose.
+
+81:24
+nunzio fiore
+siamo arrivati al al fatto che abbiamo modelli linguistici che sono capaci di rispondere molto bene però queste risposte che davano e che danno a volte possono essere sbagliate prende il nome di allucinazione io racconto sempre che non è il modello linguistico ad avere l'allucinazione ma siamo noi a dare un significato di vero o falso a quello che dice quindi se io in realtà sto facendo un testo di favole e la frase, il gigante è nella stanza, in realtà è vera.
+
+81:58
+nunzio fiore
+Se sto facendo il verbale di una riunione, la frase è falsa.
+
+82:02
+nunzio fiore
+Quindi è il nostro modo di giudicare la conoscenza, è la nostra conoscenza di giudicare il testo che viene generato che determina se è vero o falso, quindi sia allucinatorio o meno.
+
+82:15
+nunzio fiore
+Il modello linguistico altro non fa che completare un testo, dopo andremo nel dettaglio di questa cosa.
+
+82:21
+nunzio fiore
+Ma il modello di per sé altro non è che un paroliere, ovvero riesce a produrre una parola dopo l'altra, un pezzo di parola dopo l'altra, andando a completare un testo, ma non sa assolutamente nulla.
+
+82:42
+nunzio fiore
+I modelli, come abbiamo detto prima, non navigano sul web.
+
+82:46
+nunzio fiore
+E qui arrivo a raccontarvi quella storia che rappresenteremo anche attraverso un video.
+
+82:53
+nunzio fiore
+Per far capire questo concetto alle persone, noi adesso stiamo costruendo un video che racconta questa storia.
+
+82:58
+nunzio fiore
+Immagina di avere, e abbiamo idea di farci anche i gadget da rilasciare ai corsi, ma immaginate di avere una scatola con un foro.
+
+83:08
+nunzio fiore
+Una scatola tipo quelle lì dei fazzoletti.
+
+83:11
+nunzio fiore
+Ora, immaginate di prendere un omino e di passargli tutta la conoscenza possibile su vari argomenti, passandogli libri, testi, passandogli il modo con cui sono stati scritti diversi testi, e lui impara come sono scritti quei testi.
+
+83:29
+nunzio fiore
+Queste sue conoscenze si fermeranno a un certo punto, come Claude che dicevamo prima, al 20 di aprile ha fermato le sue conoscenze.
+
+83:36
+nunzio fiore
+Quella è la fase di istruzione.
+
+83:37
+nunzio fiore
+Io gli sto passando un sacco di testi in modo tale che lui capisca come sono scritti e possa riprodurre quei testi.
+
+83:44
+nunzio fiore
+Non sto creando un database.
+
+83:46
+nunzio fiore
+Non è che se io gli passo decine di informazioni su gli eventi aziendali, poi dopo lui sa pescare come in un database qual è l'evento che abbiamo fatto nel 2024.
+
+83:59
+nunzio fiore
+Probabilmente saprà scrivere bene un documento su un evento aziendale, ma non è detto che ti sappia tirare fuori il dato come in un database.
+
+84:07
+nunzio fiore
+Stiamo addestrandola a scrivere.
+
+84:10
+nunzio fiore
+Questa personcina viene messa dentro alla scatola e non ha niente con sé, non ha un cellulare, non ha un computer, non ha niente, non ha nulla se non la sua conoscenza di sapere scrivere un testo.
+
+84:23
+nunzio fiore
+noi abbiamo modo di interagire con questa personcina con dei fogli che si chiamano contesto e questi fogli sono come i post-it di diverse dimensioni, ogni modello linguistico, ogni personcina ha la sua dimensione di contesto.
+
+84:42
+nunzio fiore
+Cloud Sonnet 3.5 ad esempio ha 128.000 token di contesto, ovvero io posso scrivere fino a 128.000 token, un token a seconda della lingua sono 3-4 caratteri e io posso scriverli in questo testo.
+
+84:58
+nunzio fiore
+All'interno di questo testo io scriverò qualcosa che dice tu sei la persona più esperta di questo argomento, ti faccio una domanda.
+
+85:08
+nunzio fiore
+Ora, mettiamo che appunto parliamo di una conoscenza che è stata fatta nel 2024, io però li vado a chiedere, mi dà informazioni, tu sei esperto di finanziare del 2025?
+
+85:21
+nunzio fiore
+lui non ce l'ha il testo della finanziaria del 2025 ma ti risponderà probabilmente con un'allucinazione ma ti risponderà componendo un testo che è verosimile oppure nel migliore dei casi ti dirà non posso saperlo perché la mia conoscenza è ferma al 2024.
+
+85:36
+nunzio fiore
+La grossa differenza quindi cos'è?
+
+85:40
+nunzio fiore
+Che non è che l'LLM naviga su web o si aggancia ai servizi, siamo noi che utilizziamo quelli che si chiamano funzioni e andiamo a prendere da delle basi dei dati queste informazioni, che siano database, che siano servizi esterni, facciamo una ricerca, prendiamo il contenuto e lo mettiamo nel fogliettino.
+
+86:04
+nunzio fiore
+Quindi tu sei l'esperto di finanziare 2025, questi sono i servizi che io potrei chiamare per rispondere alle domande, Questa è la domanda che ti viene fatta e l'AI quello che fa è dire, guarda per rispondere a questa domanda c'è bisogno che chiami questi servizi dove c'è la finanziaria del 2025.
+
+86:26
+nunzio fiore
+Allora io come umano, quindi Aizuru come programma, vado, prendo il contenuto della finanziaria del 2025, torno sul foglietto e scrivo tu sei esperto di finanziaria del 2025.
+
+86:40
+nunzio fiore
+Questa è tutto il testo della finanziaria 2025 e la domanda è quella di prima.
+
+86:45
+nunzio fiore
+E a quel punto l'AI, leggendosi tutto quello che sta nel contesto, allora può rispondere.
+
+86:51
+nunzio fiore
+Quindi questa è la parte fondamentale che ci teniamo a raccontare e a far capire alle persone.
+
+86:57
+nunzio fiore
+Un modello linguistico può stare in una scatola non connessa a internet e funzionare.
+
+87:02
+nunzio fiore
+Non saprà niente di quello che è il mondo esterno.
+
+87:06
+nunzio fiore
+Siamo noi a passargli tutta la conoscenza e i testi utili perché la risposta sia il più precisa possibile.
+
+87:14
+nunzio fiore
+E per fare questo ci sono tante metodologie.
+
+87:18
+nunzio fiore
+Non sono, come vi dicevo, quindi motori di ricerca.
+
+87:22
+nunzio fiore
+E un modo migliore per capire come funzionano i modelli linguistici è capire che il problema a volte è come noi poniamo le domande.
+
+87:32
+nunzio fiore
+Un esempio reale, che vi riportiamo, questo è un progetto che avevamo fatto con una banca, ecco che l'APM aveva iniziato a capire molto bene, col nostro approccio appunto di membri di ISURU, noi non ti diamo un chatbot, noi ti aiutiamo a capire come funziona il modello linguistico.
+
+87:50
+nunzio fiore
+E siamo stati contenti di vedere che l'APM aveva capito molto bene il problema, perché aveva rilasciato un AI capace di dire se i documenti erano validi o meno, l'aveva fatta testare alle persone.
+
+88:04
+nunzio fiore
+Ora una persona aveva chiesto il mio progetto in stato valido è stato fatto il PRD e la risposta aveva detto non posso accedere ai programmi e la persona aveva ai progetti real time e la persona aveva detto guarda allora non funziona.
+
+88:19
+nunzio fiore
+La PM aveva detto no aspetta non è che non funziona è che tu gli hai chiesto il mio progetto e Allora lui ha capito che doveva accedere a qualcosa per capire del tuo progetto.
+
+88:29
+nunzio fiore
+Allora è andata a cambiare il prompt, questo modo che abbiamo di interagire con la macchina.
+
+88:35
+nunzio fiore
+Ed è andata a dirgli, se qualcuno ti chiede informazioni riguardo al suo progetto specifico, tu puoi comunque rispondere considerando quali sono le procedure generali che si attuano quando si considera l'abita di un progetto, secondo la tua conoscenza.
+
+88:49
+nunzio fiore
+Questo ha fatto Emania tale che lei ha capito che noi umani utilizziamo un modo di parlare dicendo il mio progetto, ma intendevo qualcosa di generico.
+
+88:59
+nunzio fiore
+E allora la IA a quel punto ha risposto, se un progetto è in stato valido, significa che è già stato fatto il BRD.
+
+89:05
+nunzio fiore
+Quindi questo ha dimostrato che il prompt può essere migliorato per spiegare alla AI meglio quale deve essere il suo modo di rispondere, ma che soprattutto noi, capendo come funziona un modello linguistico, possiamo interagire con lui andando a fare le domande in un modo migliore.
+
+89:26
+nunzio fiore
+E laddove la domanda sappiamo che viene fatta in determinato modo, allora dobbiamo spiegare al modello linguistico come interpretare quello che l'utente gli andrà a dire.
+
+89:40
+nunzio fiore
+Quello che il concetto di Token che vi dicevo lo vedete ben rappresentato in questa immagine ovvero quello che fa il modello linguistico è capire dal 70 miliardi a n miliardi di parametri che ha il modello a disposizione se mi è stata dato un testo in ingresso scritto in questa maniera a un certo punto si interromperà e lui cercherà di capire come completarlo.
+
+90:08
+nunzio fiore
+Ognuno di questi pezzettini è un token.
+
+90:10
+nunzio fiore
+Nel particolar caso i token si dividono in token di input e di output, ovvero i token di input sono i token che io do in ingresso al modello linguistico quando gli sto passando il mio fogliettino con dentro tutto il mio testo, utile a poter rispondere.
+
+90:31
+nunzio fiore
+I token di output sono quando il modello linguistico ti va a rispondere.
+
+90:38
+nunzio fiore
+Con Fabio abbiamo appunto discusso questa nostra metodologia proprio perché, come vedete da questa schermata, per noi il token input sono grandissimi a fronte di spesa molto bassa sul token di output.
+
+90:55
+nunzio fiore
+Però la precisione delle nostre risposte è di altissimo livello.
+
+91:00
+nunzio fiore
+proprio perché passiamo, il modo migliore per far sì che un AI non abbia allucinazioni è dirgli tutto quello che tu vuoi che dica.
+
+91:11
+nunzio fiore
+Quindi l'AI iniziamo a pensarla proprio come un agente, come una persona che è capace di scrivere molto bene, che non sa assolutamente niente, a cui noi passiamo tutto quello che vogliamo che sia la sua conoscenza per poterci dare una risposta.
+
+91:31
+nunzio fiore
+Quello che è quel foglio in cui si mettono i token di input.
+
+91:37
+nunzio fiore
+E.
+
+91:37
+nunzio fiore
+Di output, di risposta, con cui noi interagiamo quindi con l'intelligenza artificiale, prende il nome di contesto.
+
+91:45
+nunzio fiore
+Quindi un modello linguistico ha un determinato contesto con determinate dimensioni.
+
+91:51
+nunzio fiore
+Anche qui la crescita è esponenziale perché nel novembre del 2022 Il contesto GPT-35 era di 4.000 token, mi pare.
+
+92:02
+nunzio fiore
+Adesso siamo arrivati a un contesto di dimensioni di 128.000.
+
+92:07
+nunzio fiore
+Stiamo arrivando, si dice, a un momento di saturazione tecnologica per cui probabilmente di più sarà difficile ottenerlo.
+
+92:16
+nunzio fiore
+Però la cosa interessante dei contesti è questa, quando voi parlate con un modello linguistico a seconda di quanto è grande il contesto, di quanto è reale la sua capacità di comprenderlo, lui riuscirà a utilizzarlo per rispondere bene.
+
+92:28
+nunzio fiore
+Ecco che ad esempio a me piace molto Sonnet di Anthropic perché è un modello linguistico che ha focalizzato molto più che disperdersi in facezie come OpenAI sulla voce che sa scherzare, recitare, eccetera, loro si concentrano molto sui contenuti, che è un po' il nostro core business.
+
+92:50
+nunzio fiore
+E loro hanno fatto, ad esempio, un test, che lo potete ritrovare anche su internet, che prende il nome di Hago nel Pagliaio, ed è un test che se voi cercate antropic, ago nel pagliaio, pizza top, cosa hanno fatto?
+
+93:10
+nunzio fiore
+Hanno passato a un modello linguistico un'enorme quantità di dati scientifici su un non so quale ricerca, ma all'interno di questi dati abbiamo scritto proprio le parole pizza top e alla chiusura del testo hanno scritto c'è qualcosa che noti di particolare in questo testo?
+
+93:28
+nunzio fiore
+Il modello di Anthropic, essendo un po' antropomorfizzato e quindi sapendo rispondere in maniera molto umana, ha risposto, non so se questo è un test o stai mettendo alla prova le mie capacità, ma le parole pizza top non mi sembra centrino niente con quello che hai scritto.
+
+93:47
+nunzio fiore
+Questo è un test che è veramente molto bello e interessante, perché e posso certificarvi che è vero perché in tantissimi casi in cui abbiamo anche dei contesti ampi ma l'AI e il modello linguistico non riesce a capire che cosa è realmente rilevante in ogni contesto E' come se io adesso, come sto facendo oggi, mi sormergessi di informazioni e voi, di tutte le informazioni che vi rimangono, magari vi rimangono più impresse quelle dove ho alzato più la voce, quindi scritto in maiuscolo, o che ho ribadito più spesso nel mio modo di parlare.
+
+94:23
+nunzio fiore
+Ecco, questo è lo stesso modo che hanno molti modelli linguistici di funzionare, ovvero i punti esclamativi, il modo di scrivere il prompt per dare più importanza a determinati punti, li fanno capire cosa è importante.
+
+94:37
+nunzio fiore
+Però è un po' abilente questo modo di gestire la cosa e a noi piace molto Anthropic perché in realtà è molto bello il fatto che è vero che devi rimanere pulito, un prompt scritto vedremo come in maniera molto pulita, però è bello che lei non si perde una parola e se io le ho detto, mi raccomando, le risposte devono essere fatte in questo modo, Lei, il modello, l'intelligenza, si attiene a quelle istruzioni.
+
+95:05
+nunzio fiore
+Da qui viene fuori tutta la scienza del prompt.
+
+95:08
+fabio lecca
+Un altro discorso sul context è proprio che alcuni modelli dichiarano una finestra molto ampia, però è stato dimostrato che è come se si distraessero man mano che ricevono l'input, cioè è stato dimostrato che gli input verso la fine della finestra di contesto non hanno la stessa rilevanza di quelli all'inizio.
+
+95:32
+fabio lecca
+Bisogna anche diffidare di quello che dichiarano, perché a volte la finestra di prompt non ha la stessa importanza.
+
+95:44
+fabio lecca
+Ci sono proprio studi scientifici su questo.
+
+95:48
+nunzio fiore
+Infatti sono tra i motivi per cui è nato Pensiero Profondo, per avere memoria delle cose dette, anche visto che l'AI tende a dimenticarse le più frette di quello che dichiara.
+
+95:59
+nunzio fiore
+E sono tre i motivi per cui io, vi compesso, ho fondato Memory e lavoriamo ormai in questa cosa alacremente tutti i giorni, ma io a giugno, se non c'era Sonnet 3.5, ero in crisi.
+
+96:17
+nunzio fiore
+Perché GPT-4.0 dichiarava di utilizzare il contesto in un certo modo, le dimensioni in un certo modo, ma veramente si dimenticavano i due per tre quello che stava facendo.
+
+96:30
+nunzio fiore
+Non rispondeva bene, rispondeva in maniera sempre completamente diversa, anche se gli dicevamo, tramite dei parametri che vi spiegherò meglio nelle prossime lezioni, di non fantasticare.
+
+96:44
+nunzio fiore
+Eppure funzionava malissimo.
+
+96:46
+nunzio fiore
+Se non fosse stato Claude, io mi sarei interrogato come CEO di Memory se aveva senso continuare su questa strada.
+
+96:54
+nunzio fiore
+Claudio mi è piaciuto perché rimane in contesto e ha un contesto molto ampio, perché 128.000 token sono quei 300.000 caratteri in cui tu ci puoi mettere veramente tanta tanta roba.
+
+97:12
+nunzio fiore
+Il nostro modo di parlare con la EA, quindi attraverso questo contesto, questo prompt che viene scritto, queste istruzioni che vengono scritte, Se l'AI domani scomparisse, altro concetto che noi raccontiamo molto è che ha fatto solo del bene, quindi è arrivato quest'alieno, domani però per motivi legali o altro scompare, la cosa buona che ha fatto è che ci ha insegnato a scrivere in maniera più chiara, meno artificiosa, più diretta e vedremo anche tante regole, quindi senza una formattazione eccessiva, ma solo il testo essenziale.
+
+97:48
+nunzio fiore
+Dicono che ha aiutato anche i manager a sapersi esprimere meglio, nel senso che hanno capito spesso, è capitato anche a me, che delle volte le specifiche non sono poi così chiare, quindi a volte fallo più bello non vuol dire niente, devi dire esattamente quello che vuoi che venga fatto.
+
+98:08
+nunzio fiore
+Oppure dare per scontato delle cose, magari se le dai per scontato, tu torni a riscrivere il tuo prompt per dirgliele più chiare.
+
+98:16
+nunzio fiore
+Ecco, quindi quello che ci ha portato l'AI è a rendersi conto innanzitutto che avevamo un sacco di documentazione fatta male.
+
+98:25
+nunzio fiore
+dispersiva, non coerente, nel senso che in alcune cose si davano per scontate degli altri concetti e quindi se gli dai per scontati l'Ai-stezza, come non lo sa l'umano, non lo sa l'Ai.
+
+98:41
+nunzio fiore
+Vi mostreremo delle Ai che invece hanno portato a documentare molto bene il progetto o come viene fatta una cosa.
+
+98:48
+nunzio fiore
+Quindi, se domani scomparisse, tu comunque hai la documentazione da passare a una persona che, se è brava a scrivere, leggendosi quella documentazione, può fare le cose che fino adesso non erano mai state documentate.
+
+99:00
+nunzio fiore
+Abbiamo tanti clienti dove la documentazione ci dicevano, no, non c'è, la documentazione è lui, perché lui sa tutto.
+
+99:07
+nunzio fiore
+Quindi il grosso apporto dell'AI è stato proprio aiutarci a imparare a comunicare in maniera chiara e pulita, a poter documentare in maniera pulita, a riprendere la nostra documentazione e andarla a rivedere, in modo tale che sia comprensibile.
+
+99:27
+nunzio fiore
+Un prompt si divide in diverse componenti, In particolare, quello che si chiama prompt di sistema è quella parte del testo che voi passate a lei, dove gli passate anche diverse istruzioni che gli dicono chi lei sta impersonando, qual è il suo ruolo, qual è il motivo per cui state scrivendo questo testo.
+
+99:51
+nunzio fiore
+La conversazione, ribadisco, è soltanto un qualcosa percepito da noi umani, ma dentro ha l'interazione con il modello linguistico, con l'omino dentro la scatola.
+
+100:02
+nunzio fiore
+Non c'è una conversazione, non sto passandoli solo il pezzettino finale, perché delle volte le condizioni dei dati che io li vado a passare potrebbero essere anche dati in real-time, quindi possono cambiare.
+
+100:16
+nunzio fiore
+Io non li passo necessariamente soltanto un pezzo.
+
+100:19
+nunzio fiore
+È vero che c'è modo di fare una cache del prompt che viene passata a una i?
+
+100:25
+nunzio fiore
+e quindi il più delle volte uno potrebbe dire questa cosa rimane sempre vera e quindi rimane così.
+
+100:31
+nunzio fiore
+Ma i nostri prompt, anche con Isuro vedrete come, sono estremamente mobili perché variano a seconda di quello che sta succedendo nella conversazione.
+
+100:39
+nunzio fiore
+Se durante la conversazione si verificano determinate variabili, allora probabilmente io ho capito che l'utente ha una determinata competenza, allora il mio prompt muta perché viene inserito all'interno del prompt anche altra conoscenza.
+
+100:55
+nunzio fiore
+Ecco che quindi il prompt di sistema è quella parte che dà all'AI una caratteristica su chi è, su cosa sta impersonando nell'escrivere questo testo, se è scritto tutto il testo e poi casualmente nell'ultima nostra interazione spesso è una domanda o è un comando che gli dice che cosa deve fare.
+
+101:15
+nunzio fiore
+e lì l'AI va a rispondere, applica le cose che abbiamo visto anche nelle slide precedenti, i meccanismi di rinforzamento per cui lei cerca di completare un testo, e voi vedete, l'avrete visto mille volte, che lei cerca di completare il testo e ripete la stessa cosa finché a un certo punto si dice, boh, forse probabilmente ho risposto.
+
+101:35
+nunzio fiore
+Un modo per sgamare è che un test generato con la I tutt'ora, nel 2025, lo si vede ancora molto, soprattutto con GPT-4O, perché non l'hanno messa a posto questa cosa in italiano, e addirittura che lui utilizza il tuttavia, e tuttavia è una particella avversativa.
+
+101:53
+nunzio fiore
+Normalmente tuttavia vuol dire, ho detto una cosa, ma guarda che comunque è vero anche il contrario.
+
+102:00
+nunzio fiore
+In realtà, tuttavia, è stato spiegato probabilmente male a OpenAI e viene usato come in conclusione.
+
+102:07
+nunzio fiore
+Quindi voi vedrete tantissimi testi che iniziano a completare il testo, rispondono a quello che è il comando, si rinforzano e chiudono con uno.
+
+102:17
+nunzio fiore
+Tuttavia, che in realtà sarebbe un in conclusione, ribadisco per l'ennesima volta quello che ho appena detto.
+
+102:23
+nunzio fiore
+E questo fa sì che si completa il testo e allora noi dopo mettiamo un altro comando per andare avanti con un dialogo.
+
+102:30
+nunzio fiore
+Fabio, volevi aggiungere qualcosa?
+
+102:33
+fabio lecca
+Sì, qui siamo tutti abbastanza esperti informatici e questa cosa la volevo spiegare anche in un altro modo.
+
+102:44
+fabio lecca
+Immaginate di avere LLM come servizio web.
+
+102:48
+fabio lecca
+Il servizio web è stateless, cioè non ha memoria delle conversazioni.
+
+102:52
+fabio lecca
+Quello che succede durante una conversazione è che il client manda a ogni frase che aggiungete tutte le frasi precedenti più l'ultima.
+
+103:02
+fabio lecca
+Quindi l'abbiamo visto anche proprio facendo i test, cioè il prompt si arricchisce con tutto il dialogo precedente e quindi di fatto in una conversazione state semplicemente aggiungendo l'ultima frase e rimandando tutte le volte quello che la precede.
+
+103:22
+fabio lecca
+Quindi anche questa è una cosa di cui tener conto quando si progetta, perché alcune volte potrebbero esserci nella conversazione delle frasi che invece lo hanno confuso.
+
+103:35
+nunzio fiore
+Esattamente.
+
+103:37
+nunzio fiore
+Capire questa cosa a me ha sbloccato un sacco di progetti, perché a un certo punto io ho capito come potevo utilizzare il modello linguistico come un programma che appunto completa un testo, quindi non mi interessava di fargli la domanda giusta, ma di dargli eventualmente un comando, quindi ho fatto diventare alcune nostre agenti delle macchine statiche con AI generativa, scusa, delle macchine stati con AI generativa, ovvero Se ti dico questa cosa, siamo in questo stato, ma tu rispondimi senza il testo.
+
+104:09
+nunzio fiore
+Capisci quello che ti ho detto e dimmi solo in che stato ci troviamo, perché io poi faccio succedere altre cose.
+
+104:15
+nunzio fiore
+Quindi diventa interessante proprio perché è capendo il fatto che tu non stai parlando con la macchina, ma stai giocando con un modello che completa il testo, che si sbloccano tanti progetti.
+
+104:29
+fabio lecca
+Sì, poi anche il discorso di analizzare la conversazione che ha appena generato e dargli un sentimento che l'abbiamo usato il BNL.
+
+104:40
+fabio lecca
+Quello poi se lo mostreremo come esempio è interessante perché noi gli abbiamo detto scrive una risposta plausibile e usa questo insieme di sentimenti ridi, triste, felice e lo abbiamo usato per interpretare quella risposta in maniera utile per poi invece ad essere il client a visualizzare delle emozioni.
+
+105:06
+nunzio fiore
+Esatto, perché il testo...
+
+105:07
+fabio lecca
+Ci sono tanti modi.
+
+105:10
+nunzio fiore
+Esatto, proprio perché il testo che lui va a generare non è solo il testo che serve per l'utente, in realtà può essere il testo che tu puoi usare anche per altre valutazioni e questo lo vedremo molto bene anche nel corso avanzato, ma quello che sta dicendo Fabio è forse la feature più interessante che abbiamo noi su Isuru, perché Isuru interpreta anche HTML, CSS, E allora che cosa possiamo fare?
+
+105:36
+nunzio fiore
+Noi possiamo metterci in ascolto sulla risposta che viene fornita e guardare all'interno della risposta c'è qualcosa, un tag html, un qualcosa che è nascosto agli occhi dell'utente ma che dice di fare delle ulteriori azioni, quindi manda una mail, fa una richiesta a un database, quindi possiamo spostare la ricerca di una funzione da farlo a fare all'LLM o farlo noi sul programma perché l'LLM ci ha detto di farla.
+
+106:08
+nunzio fiore
+L'listener sul messaggio generato vedremo come può vedere che cosa è successo e quindi ad esempio nel caso di BNL c'era il tag gioia e se esisteva quel tag, l'avatar manifestava un'emozione di gioia.
+
+106:25
+nunzio fiore
+Le pratiche raccomandate sono appunto cercare di essere specifici, dettagliati, fornire dei testi puliti, preferire le notazioni puntate e diverse cose che vedremo più nel dettaglio.
+
+106:38
+nunzio fiore
+Questo è proprio l'esempio che stava dicendo.
+
+106:40
+nunzio fiore
+Da.
+
+106:42
+nunzio fiore
+Fabio, quindi noi che cosa abbiamo fatto?
+
+106:44
+nunzio fiore
+È logico che noi nei corsi abbiamo tutto anonimizzato, quindi non parliamo dei clienti.
+
+106:49
+nunzio fiore
+Però appunto questo è un esempio di prompt, dove tu dici, parli, è come se stessi parlando alla macchina perché stai scrivendo lì, tu sei Giovanna, un indipendente, ma è come se io prendessi una persona a caso di voi che è molto brava a scrivere e gli stessi passando questo testo.
+
+107:06
+nunzio fiore
+in modo tale che lei sappia interpretare quel ruolo e grazie alla sua conoscenza aggiungere dei pezzi a quello che casualmente è un dialogo.
+
+107:16
+nunzio fiore
+Quindi avrai un colloquio col tuo responsabile eccetera eccetera.
+
+107:20
+nunzio fiore
+È tutto molto importante e funziona molto bene con Claude ad esempio il fatto che quando all'inizio noi avevamo detto avrai un colloquio con qualcuno che ti dirà determinate cose, lei aveva risposto male.
+
+107:34
+nunzio fiore
+aveva iniziato a dire forse sei te che non conosci il mio lavoro quando noi gli abbiamo detto è il tuo responsabile in altri punti gli abbiamo detto guarda che essendo il tuo responsabile devi parlargli in un determinato modo allora ha iniziato a rispondere in modo diverso quindi è importante come viene scritto il prompt proprio per questi eh motivi un altro esempio di prompt interessante lo vediamo qua dove vedete che noi stiamo dicendo sei un agente AIA esperto di perforazioni questo l'abbiamo fatto con autostrade lavori per quest'azienda, sei specializzato in questo, la tua conoscenza è basata su..." e gli abbiamo detto che cosa, in più gli abbiamo anche detto come volevamo che desse spiegazioni alle domande, ma soprattutto sapesse condurre dei quiz, quindi sulla base della conoscenza che gli era stata passata, lei doveva leggersi tutto un documento e poi fare delle domande che avevano determinati scopi e valutare in un certo modo e alla fine generare anche automaticamente un badge che dava un attestato o meno di conoscenza.
+
+108:42
+nunzio fiore
+Quindi questa è la fine del prompt che vi dicevo.
+
+108:45
+nunzio fiore
+Il risultato è stato molto interessante perché appunto lei sapeva rispondere.
+
+108:50
+nunzio fiore
+Quindi noi abbiamo il prompt di sistema dove io ti scrivo tutto perché tu possa rispondere.
+
+108:56
+nunzio fiore
+Però, come vi dicevo, per non lasciare libera l'AI di dire castronerie, dobbiamo noi passargli tanta roba.
+
+109:03
+nunzio fiore
+Il modo migliore per passargli sono diversi.
+
+109:07
+nunzio fiore
+Uno è quello che si chiama RUG, ovvero questo metodo di andare a prendere da un database vettoriale, da un database di testo, da determinate fonti, un tot di contenuti a seconda di quello che viene chiesto e fare appunto ricerca linguistica, come dicevamo prima, nei contenuti per andare a prendere quelli che possono essere più utili da mettere dentro al contesto, per cui l'AI, leggendo tutto il prompt di sistema, tutti i contenuti utili a rispondere e la domanda e l'istruzione finale, abbia tutto il materiale per poter dare un testo più coerente con la nostra conoscenza.
+
+109:50
+nunzio fiore
+Se io andavo a chiedere direttamente a Claude, parlami del welfare, non mi ricordo, un particolare tipo di welfare, l'azienda nostra socio a tre cuori ci ha fatto vedere che la risposta era sbagliata.
+
+110:07
+nunzio fiore
+Se vado a fare la stessa domanda a un loro AI, che è quello che avete testato, Fabio, si chiama Chloe, esperta di welfare aziendale, la risposta era precisa, perché andava a prendere i concetti esclusivamente dai contenuti certificati da loro e veniva passata attraverso la RAG dentro il prompt tutti i contenuti per poter dare questa risposta.
+
+110:30
+nunzio fiore
+Quindi qui si va a descrivere meglio qual è la risposta con e senza RAG e il fatto di mettere la RAG aumenta la possibilità dell'AI di dare una risposta che è priva di allucinazioni.
+
+110:44
+nunzio fiore
+Un altro modo di migliorare le risposte di un AI, e si può sempre fare, vedremo nelle prossime lezioni come, con iZuru, è di estrarre tutti quei contenuti di domande e risposte in ambiti specifici e passarli a un modello linguistico aggiungendogli quindi conoscenza.
+
+111:05
+nunzio fiore
+Quindi io prima avevo detto ho un modello linguistico istruito che non ha una certa data, ma io potrei fare fine tuning e passargli un ulteriore set di conoscenze, in maniera tale che lei possa rispondermi.
+
+111:18
+nunzio fiore
+È importante, perché tutte le aziende ci cascano, che non stiamo parlando di una ricerca ADB, quindi io non gli sto passando un database di informazioni e allora io vado e faccio una ricerca come una query, gli sto passando solo un modo di Guarda che io a questo tipo di domanda nell'azienda IX rispondo in questo modo, perché questo test, questa certificazione, questo contenuto, noi lo scriviamo così.
+
+112:03
+fabio lecca
+Si può usare un modello più potente per generare i contenuti validi e poi invece fare i functioning con quelle domande risposte su un modello meno potente per poter migliorare le performance.
+
+112:18
+fabio lecca
+Quello era il motivo per cui ti chiedevo di scaricare le domande dall'agente Le.
+
+112:24
+nunzio fiore
+Domande le diciamo tra certificate dall'umano o meno, proprio perché per noi è importante che siano certificate dall'umano.
+
+112:32
+fabio lecca
+Esatto, quindi l'idea poteva essere di prendere le domande che poi tu certifichi, sempre dalla vostra console, e usarle per fare il frontrunner.
+
+112:41
+fabio lecca
+Quindi stiamo facendo questo esperimento per vedere se ci dà risultati buoni.
+
+112:48
+nunzio fiore
+Esatto perché questo è un altro modo di esportare i contenuti in modo tale che siano già utili per fare il.
+
+112:58
+fabio lecca
+Fine tuning Esatto, esatto.
+
+113:01
+nunzio fiore
+Alcuni progetti è stato fondamentale perché passare dei testi, trasformare un testo in 5.000 domande e risposte non è un che lo può fare qualsiasi programma.
+
+113:09
+nunzio fiore
+Quindi noi gli abbiamo passato dei testi, li abbiamo trasformati in domande e risposte e lui ha saputo rispondere.
+
+113:15
+nunzio fiore
+Vi faccio vedere anche qui un piccolo video esplicativo di questo tipo di interazioni.
+
+113:27
+nunzio fiore
+aspetto perché mi ha aperto un'altra scheda quindi non lo sentireste questo qua ok l'audio dovrebbe esserci partiamo dall'inizio.
+
+113:51
+nunzio fiore
+In questo video useremo questo quadrante per spiegarvi quando conviene utilizzare la RANG, quando il fine tuning e quando può essere utile combinarli.
+
+114:01
+nunzio fiore
+È fondamentale capire queste differenze per poter sviluppare soluzioni IA efficaci.
+
+114:08
+nunzio fiore
+Partiamo da qui.
+
+114:09
+nunzio fiore
+In questo quadrante vediamo quattro possibili scenari.
+
+114:12
+nunzio fiore
+In bassa a sinistra abbiamo il punto di partenza e il morello preaddestrato, come può essere GPT-4, GLOD o MISTRAL.
+
+114:21
+nunzio fiore
+Questi modelli hanno già una conoscenza generale molto ampia, ma spesso è limitata su domini specifici.
+
+114:28
+nunzio fiore
+Ad esempio, se chiediamo al nostro modello una domanda semplice come «Posso fare ricorso per una multa?», potrebbe darci una risposta generica, senza conoscere le procedure specifiche del tribunale della nostra città o le ultime modifiche alle normative.
+
+114:44
+nunzio fiore
+È come una stagista che ha studiato diritto all'università, ma non ha mai lavorato in uno studio legale.
+
+114:51
+nunzio fiore
+Da qui possiamo prendere due strade, il fine-tuning o la RAG.
+
+114:56
+nunzio fiore
+Pensate ad uno stagista in uno studio legale.
+
+114:59
+nunzio fiore
+Con il fine-tuning è come mandarlo ad una specializzazione in diritto amministrativo, mentre con la RAG è come l'hari accesso a tutti i documenti dello studio, con moduli, scadenze e procedure sempre aggiornate.
+
+115:15
+nunzio fiore
+Dalla nostra esperienza sul campo, l'80% dei casi si risolve con la RAG, il 15% richiede il fan tuning e infine il 5% beneficia di entrambi gli approcci.
+
+115:28
+nunzio fiore
+Vediamo nel dettaglio cosa significa, sempre usando l'esempio del nostro stagista nello studio legale.
+
+115:35
+nunzio fiore
+Con la RAG, il nostro stagista può verificare le scadenze per un ricorso, trovare i moduli giusti per ogni pratica, controllare i costi delle procedure e accedere agli orari degli uffici giudiziari.
+
+115:49
+nunzio fiore
+Se qualcuno chiede, entro quando devo presentare il ricorso per questa multa?
+
+115:54
+nunzio fiore
+Lo stagista consulta immediatamente il database e fornisce la scadenza corretta.
+
+116:00
+nunzio fiore
+Se domani cambiano le procedure, lui ha subito accesso alle nuove informazioni, senza dover reimparare nulla.
+
+116:07
+nunzio fiore
+Con i file tuning, invece, il nostro sagista ha imparato a capire quando la multa può essere contestata, a riconoscere casi simili già risolti, a prevedere le possibilità di successo e a suggerire la strategia migliore.
+
+116:22
+nunzio fiore
+Se ad esempio un cliente chiede «Ho ricevuto questa multa mentre accompagno mio figlio in ospedale, posso farci qualcosa?» Sa valutare il caso specifico e le possibili soluzioni.
+
+116:34
+nunzio fiore
+Non sta solo leggendo le procedure.
+
+116:37
+nunzio fiore
+Ha davvero imparato a interpretare le soluzioni.
+
+116:40
+nunzio fiore
+In alcuni casi abbiamo bisogno di entrambi gli approcci.
+
+116:43
+nunzio fiore
+Ad esempio, il nostro stagista ora può, grazie al fine tuning, comprendere le complessità di un caso, interpretare le possibili eccezioni e valutare le strategie migliori.
+
+116:54
+nunzio fiore
+mentre grazie alla RAG può accedere alle procedure aggiornate, verificare le scadenze precise e consultare i moduli necessari.
+
+117:02
+nunzio fiore
+Se un cliente chiede, ho ricevuto una multa per diviato di sosta in zona ospedale durante un'emergenza, come posso fare ricorso secondo le nuove normative?
+
+117:12
+nunzio fiore
+Lo stagista ora può combinare la sua conoscenza legale con l'accesso alle procedure più recenti.
+
+117:18
+nunzio fiore
+Prima di implementare una soluzione, chiedetevi sempre 1.
+
+117:23
+nunzio fiore
+Il modello base ha già sufficienti conoscenze nel mio campo?
+
+117:27
+nunzio fiore
+2.
+
+117:28
+nunzio fiore
+Le informazioni cambiano spesso?
+
+117:30
+nunzio fiore
+3.
+
+117:32
+nunzio fiore
+Quanto è specialistico il mio dominio?
+
+117:34
+nunzio fiore
+Nel caso del nostro studio legale, vediamo che servono sia competenze approfondite, l'iritto, sia accesso a procedure e modulistica sempre aggiornate.
+
+117:45
+nunzio fiore
+Spero che quest'esempio e lo studio legale vi abbia aiutato a capire quando usare la RAG, quando il fine tuning e quando potrebbero servirvi entrambi.
+
+117:53
+nunzio fiore
+Ogni approccio ha il suo vantaggio, l'importante è scegliere quello giusto per il tuo caso specifico.
+
+118:00
+nunzio fiore
+Bene, qui avete visto un video completamente generato con strumenti di AI.
+
+118:09
+fabio lecca
+Con la voce toscana.
+
+118:12
+nunzio fiore
+Sì, sì, è stato fatto tutto completamente con lei.
+
+118:18
+nunzio fiore
+Dalla persona a...
+
+118:21
+nunzio fiore
+non l'abbiamo diffuso in realtà questo, solo perché in realtà l'ho fatto perché era ispirato al video di un altro che mi era piaciuto, che aveva fatto queste spiegazioni, però è molto plateale il fatto che è ispirato a quell'altro.
+
+118:36
+nunzio fiore
+Quindi lo usiamo soltanto dentro l'Ai Academy, ma non lo condividiamo.
+
+118:42
+nunzio fiore
+però la differenza fondamentale è quella che spero vi sia arrivata tra questi approcci e soprattutto quando è che bisogna iniziare a pensare a queste cose, perché essendo la sua conoscenza limitata nel tempo e essendo che gran parte delle interazioni hanno bisogno invece di dati aggiornati a volte in real time, tu devi mixare metodi di andare a prendere questi contenuti tramite funzioni rag o fine tuning e andarli a aggiungere alla conoscenza del modello.
+
+119:13
+nunzio fiore
+Vi ho parlato appunto delle funzioni che sono a quel discorso per cui io posso mettere all'interno del prompt un messaggio che dice mi suggeriva di condividere il video, ve lo condivido qua.
+
+119:36
+nunzio fiore
+tanto lo trovate anche nella presentazione che vi ho dato il link.
+
+119:40
+nunzio fiore
+Le funzioni sono quella parte che all'interno del prompt di sistema viene data alla i dicendo guarda che quando ti vengono chieste di poter sapere i dati di fatturazione di un cliente, questi sono i servizi per accedere al CRM.
+
+119:55
+nunzio fiore
+Quando ti viene chiesto news dal blog, questo è il link ai nostri servizi con le ultime news e cose di questo tipo.
+
+120:04
+nunzio fiore
+Ecco, il motore non sa chiamare quelle funzioni, ha bisogno di Aizuru, perché il motore linguistico altro non fa che dice, mi hai fatto una domanda, mi hai detto che per sapere la risposta devo chiamare questo servizio, chiamalo, lo passa ad Aizuru, Aizuru chiama il servizio, prende la risposta e quella risposta viene ripassata al modello linguistico che a quel punto sa rispondere.
+
+120:30
+nunzio fiore
+Qui apro una parentesi perché con voi abbiamo fatto questo test, È logico che, date in mano all'utente sproveduto, metterà dentro qualsiasi tipo di contenuto, prenderà dei servizi che fanno web scraping e prenderà qualsiasi contenuto da un sito, eccetera, ma un sito e altri servizi possono avere tantissimo testo in più che rallentano soltanto e confondono soltanto il nostro modello linguistico.
+
+120:59
+nunzio fiore
+Il modo migliore di dare risposta a queste funzioni è dei dati il più puliti possibile, quindi aggregati, JSON, testi, markdown, evitare tutto quello che è un di più.
+
+121:13
+nunzio fiore
+e fare in maniera tale che questi risultati delle funzioni siano il più pulite possibile.
+
+121:19
+nunzio fiore
+Altri metodi sono chiamare le funzioni esclusivamente quando serve, quindi definire bene i contesti per cui le funzioni vengono messe nel prompt solo quando è necessario.
+
+121:31
+nunzio fiore
+Questo è quello che deve fare un buon AI creator.
+
+121:33
+nunzio fiore
+I nostri clienti spruttano il fatto che in questo momento Claude è molto bravo e gli passano dentro un po' di tutto, però rischiano di avere delle risposte sbagliate o che lui non riesca a leggere tutto perché si è letto 300 righe di CSS che non gli interessavano.
+
+121:53
+nunzio fiore
+Questo è quello che vi ho già raccontato, quindi di come va a rispondere.
+
+122:02
+nunzio fiore
+La capacità di dare memoria a una i È un modo, ad esempio, di utilizzare le funzioni.
+
+122:08
+nunzio fiore
+Noi abbiamo quella che chiamiamo pensiero profondo, c'era dedicata una lezione a questo.
+
+122:13
+nunzio fiore
+Però, ad esempio, tramite l'analisi della conversazione noi ci mettiamo da parte dei fatti noti.
+
+122:18
+nunzio fiore
+Riescono a capire le nostre AI come sta interagendo l'utente, chi è quell'utente, che cosa sta chiedendo.
+
+122:26
+nunzio fiore
+e le AI che hanno memoria riescono a darti risposte personalizzate, quindi riescono a dirti, ah, sei stato lì, ma ti ricordi che io ti avevo detto sta cosa, annunzio, com'è andata?
+
+122:38
+nunzio fiore
+Questo nell'ambito degli hotel di lusso piace molto.
+
+122:41
+nunzio fiore
+L'altro giorno abbiamo fatto una demo che vi farò entro la fine di questo corso a un hotel di lusso di Milano.
+
+122:47
+nunzio fiore
+che è andata veramente molto bene grazie al fatto che abbiamo mixato pensiero profondo, le funzioni, il fatto che lui ha letto dal sito le informazioni dell'hotel e in cinque secondi avevano un AI che sapeva fare delle cose incredibili.
+
+123:03
+nunzio fiore
+Andiamo ancora un po' avanti, ovvero essere davanti a questo mondo ci sta portando davanti a delle grosse anche problemi etici, problemi di regolamentazione, perché siamo in un momento in cui abbiamo una tecnologia che è anche difficile da gestire.
+
+123:25
+nunzio fiore
+Noi abbiamo una partnership attiva con uno studio legale che collabora alla scrittura della IACT, e che però diversamente dalla GDPR, dove la GDPR trattava con cookie, una tecnologia che esisteva 40 anni fa, che esiste tutt'ora, che non è cambiata più di tanto, qui abbiamo qualcosa che, come abbiamo detto all'inizio lezione, cambia costantemente e quindi cambiando costantemente rischia di uscire la legge che qualcosa è cambiato, quindi loro stessi ci hanno chiesto, no, collaboriamo perché abbiamo bisogno di rimanere aggiornati, perché rischiamo di uscire con una parte di legge che diventa obsoleta.
+
+124:06
+nunzio fiore
+Però la IACTA a noi piace molto perché in realtà è molto affine al nostro modo di certificare la competenza umana e mettere l'umano al centro nella collaborazione con il...
+
+124:24
+nunzio fiore
+scusate che mi sono distratto leggendo una notifica.
+
+124:27
+nunzio fiore
+Dicevo, nella collaborazione con la macchina.
+
+124:33
+nunzio fiore
+Le cose fondamentali della REACT io ho ottenuto con questo studio legale un pitch al Palazzo di Giustizia a Firenze dove avevo fatto vedere questo meme dicendo cerchiamo di non far questa fine perché è un po' quella che stiamo facendo perché tutti festeggiano ma noi abbiamo le regole più fiche In realtà questo potrebbe inibire l'innovazione, però devo dire che l'AI ACTES è scritto bene da questo punto di vista, perché parla di trasparenza, di supervisione umana costante e per noi è importante questo, proprio per dire non è l'AI che ha un'allucinazione, se tu che hai fatto un AI l'hai dato in pasta al pubblico e pensi che faccia tutto da sola, che hai avuto un'allucinazione proprio nel pensare di fare sto tipo di progetto.
+
+125:21
+nunzio fiore
+deve essere sempre più supervisionato da un umano.
+
+125:23
+nunzio fiore
+L'AI è soltanto lo strumento che ti permette di fare più velocemente la scrittura di un testo.
+
+125:29
+nunzio fiore
+La parte interessante dell'AI Act è questa sua roadmap ambiziosa, perché vogliono uscire con l'ultima fase nel 2030, quindi quando mi chiede lo studio legale, ma da qui al 2030, boh, cioè non so da qui all'anno prossimo dove saremo.
+
+125:43
+nunzio fiore
+figurati nel 2030.
+
+125:45
+nunzio fiore
+Quindi loro si trovano a degiferare qualcosa che boh, chissà.
+
+125:49
+nunzio fiore
+Nel 2030 probabilmente avremo dei robot che con i sensori alimentano il modello linguistico in real time e rispondono in altra maniera.
+
+125:57
+nunzio fiore
+quindi non lo sappiamo.
+
+125:58
+nunzio fiore
+Però la parte che mi piace è questa parte iniziale, quella di quest'anno, dove soprattutto dal mese prossimo c'è questo obbligo formativo e per me è molto interessante questo approccio, perché passare dalla formazione obbliga le persone a dire non stiamo parlando di magia, stiamo parlando di quello che oggi vi sto spiegando, ovvero di qualcosa che una volta che l'avrò compreso potrò utilizzarlo in un certo modo.
+
+126:23
+nunzio fiore
+Quindi per noi è molto interessante questo passaggio.
+
+126:28
+nunzio fiore
+E noi, appunto, abbiamo come Aizuru un modo diverso di proporci sul mercato.
+
+126:34
+nunzio fiore
+Tantissime web agency, forse tutte, quello che vi dicono è dimmi di che chatbot hai bisogno e io torno da te col chatbot.
+
+126:41
+nunzio fiore
+Non è il nostro approccio perché io in quel modo non ti ho insegnato quello che sto trasmettendoti oggi.
+
+126:47
+nunzio fiore
+e quindi tu farei una domanda, quella risposta sarà sbagliata, mi dirai non funziona e finiremo a litigare.
+
+126:52
+nunzio fiore
+Abbiamo visto dei preventivi di alcune aziende blasonate che vendono due chatbot a novantamila euro più manutenzioni giganti, ma siamo certi che sono fatti per coprire i costi del non funziona della persona comune.
+
+127:08
+nunzio fiore
+Invece per il nostro approccio è io ti formo e al massimo con te posso aiutarti a creare, a personalizzare, a collegare le tue AI, a mantenerle e così via, ma facciamo tutto insieme.
+
+127:21
+nunzio fiore
+La nostra strategia del 2025 è molto importante, la stiamo comunicando parecchio a Renew, ma è molto coinvolta in questa nostra strategia, è proprio il fatto che abbiamo una partnership con un private cloud, si chiama Weed Cloud, non è ancora stata fatta pubblica perché Wit è portata in borsa e quindi non possiamo ancora dirlo pubblicamente, ma oltre al nostro cloud se un'azienda mette che BNL dice no vabbè anziché i nostri server o il vostro cloud ci interessa un private cloud con determinate caratteristiche di privacy, ecco che loro possono aprire uno spazio dentro il loro private cloud.
+
+127:59
+nunzio fiore
+oppure il fatto di usare modelli custom come abbiamo fatto con voi e Lenovo anche addirittura in locale quindi su una macchina tua installata in una tua server farm che può però dar servizio a quasi al pari dei modelli più blasonati.
+
+128:18
+nunzio fiore
+Aizuru si colloca molto bene per permetterti di fare rapidamente Proof of Concept.
+
+128:25
+nunzio fiore
+Per noi Proof of Concept, diversamente dai clienti, è qualcosa che è uno studio di fattibilità, quindi io cerco di metterti davanti anche al fatto che può fallire, ma ti faccio spendere molto meno per fallire prima, piuttosto che fallire alla fine dopo aver speso tanto.
+
+128:40
+nunzio fiore
+Quindi vedo se i tuoi dati riescono a rispondere bene in un determinato ambito, e se risponderò bene allora vado avanti ecco che stiamo cercando di avere un certificato di IAC compliance con questo studio illegale proprio perché l'IACT prevede anche una cosa interessante di sandbox sperimentale.
+
+129:05
+nunzio fiore
+Questa sandbox sperimentale aiuta a fare innovazione in maniera legale e controllata, ovvero aprendo una determinata comunicazione a un ente giuridico a cui viene detto che io farò questa sperimentazione controllata in questo modo, mi aspetto di verificare più che altro queste caratteristiche dell'AI, io posso fare anche innovazione e non ho le braccia, le mani legate dal fatto di non lo posso fare perché non so se quando avrò finito poi dopo questa cosa legale.
+
+129:41
+nunzio fiore
+Allora invece in questa maniera iZuru e la collaborazione con lo studio legale ti aiuta anche a fare degli esperimenti controllati, quindi immaginate anche appunto modello locale, l'assistenza legale e Aizuru che ti aiutano a fare degli esperimenti innovativi e controllati nella totale sicurezza legale.
+
+130:01
+nunzio fiore
+Per arrivare a fare questo noi sponsorizziamo quello che state vedendo oggi, quindi l'iAcademy, per far sì che tu prima di partire sappia di che cosa si sta parlando.
+
+130:13
+nunzio fiore
+Stiamo collaborando anche con l'Università di Macerata, con il professor Frontoni, che nell'ambiente AI anche lui è abbastanza conosciuto, e loro fanno dei modelli di machine learning molto spinti per diverse grosse aziende e università.
+
+130:30
+nunzio fiore
+la cosa che gli piace è poter fare esporre queste queste modelli in modo che siano interrogabili, sfruttare a Isuru perché li vada a interrogare.
+
+130:39
+nunzio fiore
+Quindi la nostra strategia 2025 diversa da qualsiasi agency è proprio il fatto che accompagniamo le aziende a formarsi sull'AI generativa, a formare competenze, a utilizzare questi agenti in modo tale che ognuno possa creare il proprio set di progetti più utile con la totale consapevolezza di cosa sta facendo.
+
+131:04
+fabio lecca
+Domanda.
+
+131:07
+fabio lecca
+Nella IAT, per quanto riguarda gli obblighi della formazione, ma c'è qualche specifica particolare per chi tiene i corsi?
+
+131:18
+fabio lecca
+Ci sono dei requisiti particolari?
+
+131:22
+fabio lecca
+Come si certifica il fatto che i dipendenti hanno seguito la formazione?
+
+131:27
+nunzio fiore
+Eh allora non c'è al momento per quello che ne so ma gliela riporterò alle Galli per avere conferma nessuna specificità da questo punto di vista eh di richiesta di certificati o di persone che devono tenerti certificato.
+
+131:41
+nunzio fiore
+Noi comunque tieni presente che quello che stiamo cercando di fare è di avviare queste il più possibile come vi dicevamo abbiamo fatto la stessa rapproposta anche a Ragu eccetera no?
+
+131:53
+nunzio fiore
+diverse academy che partono e cercheremo di distaccare come anche ente giuridico una memory academy, perché a quel punto se riusciamo ad avere il 70% del fatturato di questa memory academy derivante dalla AIA academy, può essere in Italia anche un ente certificatore.
+
+132:16
+fabio lecca
+Esatto, perché poi tipicamente c'è questo tipo di cose che si sfociano in informazione certificata, per sapere se ci sono già requisiti indicati.
+
+132:27
+fabio lecca
+Non ci sono indicati, ma.
+
+132:31
+nunzio fiore
+Sono sicuro che li indicheranno anch'io e quindi anche noi ci stiamo muovendo per arrivare ad essere certificati o appoggiarci a un anticertificatore.
+
+132:44
+nunzio fiore
+Quindi avete capito un po' tutte le differenze?
+
+132:50
+nunzio fiore
+Perché il cliente ignorante dice, ma io già uso ChatGPT, senza capire che Azure non è.
+
+132:56
+nunzio fiore
+Tu puoi usare ChatGPT, ma lo usi solo meglio.
+
+132:59
+nunzio fiore
+è una piattaforma che ti permette di personalizzare il modo con cui tu usi ChatGPT.
+
+133:05
+nunzio fiore
+Se tu vai direttamente su ChatGPT e non flagghi i dovuti flag, lui può usare i tuoi dati.
+
+133:10
+nunzio fiore
+Se lo fai attraverso API c'è un data retention zero e lui non può usare i tuoi dati.
+
+133:15
+nunzio fiore
+Sono delle cose completamente diverse.
+
+133:22
+nunzio fiore
+Allora, vado un po' avanti e andiamo fino a luna, giusto?
+
+133:26
+fabio lecca
+Sì, anche se la slide pausa pranzo ci aveva entusiasmati.
+
+133:30
+nunzio fiore
+Sì, infatti.
+
+133:32
+nunzio fiore
+Ditemi voi, se vogliamo anticipare, io comunque la pausa noi la facciamo all'uno, quindi.
+
+133:37
+fabio lecca
+Io comunque preferisco… No, no, cioè, valuta tu come ti senti anche con la voce.
+
+133:42
+nunzio fiore
+Eh, devo dire che mi si affattica facilmente ancora la voce dopo la malattia due settimane fa, quindi una pausa la farei.
+
+133:54
+fabio lecca
+No, se vuoi facciamo dieci minuti e arriviamo fino all'una.
+
+133:57
+nunzio fiore
+Dai, facciamo dieci minuti di pausa, che così dopo vediamo un po' di use case, perché cercavo di non arrivare comunque, perché facciamo solo la giornata uno, cercavo di fare un po' di più se riusciamo.
+
+134:11
+fabio lecca
+Sì, sì, va bene, tanto credo che stiamo tutti seguendo tranquillamente il suono.
+
+134:16
+fabio lecca
+Perfetto.
+
+134:18
+fabio lecca
+Ok, allora a tra dieci minuti.
+
+134:21
+nunzio fiore
+A dopo, grazie, ciao.
+
+134:22
+nunzio fiore
+Ciao.
+
+134:30
+nunzio fiore
+FINE.
+
+149:50
+nunzio fiore
+Quando volete possiamo fare l'ultima mezz'ora.
+
+149:55
+fabio lecca
+Perfetto.
+
+149:56
+fabio lecca
+Vado con la registrazione.
+
+150:00
+nunzio fiore
+Ok, ci siamo tutti, sì?
+
+150:13
+nunzio fiore
+Sì, sì, sì.
+
+150:15
+nunzio fiore
+Ok.
+
+150:17
+nunzio fiore
+Allora, quindi dopo aver fatto tutto questo viaggio su modelli linguistici e un po' più di dettagli su cosa vuol dire interagire, ecco che un'altra cosa che mostriamo sempre il primo giorno è, ok, ma che cosa vuol dire utilizzarli in azienda?
+
+150:34
+nunzio fiore
+E utilizzarli vuol dire poter fare veramente diversi tipi di progetti, da AI che ci supportano appunto nella lavorare in team, personalizzare i contenuti, collegarle ai servizi, le possiamo condividere dovunque, possiamo fare tanta formazione grazie a lei.
+
+150:56
+nunzio fiore
+Molte lo usano per l'onboarding.
+
+150:58
+nunzio fiore
+Abbiamo tanti esempi.
+
+151:00
+nunzio fiore
+Un'azienda l'ha utilizzata per creare un compilatore di documenti a cui è stato passato un template di documenti, quindi si passava.
+
+151:09
+nunzio fiore
+Questo era, parliamo di un esperimento fatto a giugno, gli si passava poi dopo informazioni e lui prendeva queste informazioni per metterle dentro ai contenuti e mandarle a un'altra gente che era capace di generare documenti con quel template Google Doc e usciva il documento compilato man mano che tu chiacchieravi con l'AI.
+
+151:32
+nunzio fiore
+Questo approccio qua ad esempio è stato ampiamente superato proprio da noi in queste settimane perché vi farò vedere nei prossimi giorni Ad esempio ci siamo fatti un custom cloud che mi può generare documenti su Google Drive sapendo tutto attraverso pensiero profondo e quindi la memoria dei nostri progetti e quindi generare automaticamente un tot di cose già impaginate anche molto bene.
+
+152:04
+nunzio fiore
+Altri esempi sono è stato passato una trascrizione puntuale di un video e lei riesce a creare quindi il link di dove viene detta una determinata cosa rispetto a un video.
+
+152:18
+nunzio fiore
+Questo ad esempio è stato proprio il progetto che ci ha fatto passare da gpd4o a cloud proprio perché GPD 4.0 non ce la faceva creare questo link seguendo le istruzioni, Cloud invece lo ha fatto in maniera precisa.
+
+152:33
+nunzio fiore
+GPD 4.0 ha fatto di peggio.
+
+152:35
+nunzio fiore
+Il giorno prima ha funzionato e il giorno della demo ha smesso di funzionare.
+
+152:39
+nunzio fiore
+È il motivo per cui stiamo lavorando appunto con voi a creare la possibilità di avere modelli evoluti, ma locale.
+
+152:47
+nunzio fiore
+Perché successe quella cosa?
+
+152:49
+nunzio fiore
+Perché probabilmente avevano compresso il modello proprio in quel periodo di giugno, perché avevano aperto a tutto il pubblico mondiale anche non pagante il GPT4O, ed ecco che il modello ha iniziato a rispondere malissimo.
+
+153:04
+nunzio fiore
+E quindi la dipendenza da un modello terzo è fortissima, perché tu potresti, se va, non va, le API cambiano loro delle regole, cambiano loro del metaprompt all'interno del modello stesso dicendo, come diceva prima Fabio, da oggi dei fatti di politica, adesso Trump sarà presidente eletto e imporranno che i modelli linguistici americani non devono parlare di Trump.
+
+153:31
+nunzio fiore
+E tu ti ritrovi di conseguenza questa cosa qua anche nei tuoi modelli, quindi la dipendenza da modelli terzi è fortissima.
+
+153:40
+nunzio fiore
+noi però appunto modelli come Cloud che riescono a fare certe cose l'abbiamo usati anche per fare questo tipo di progetti altri progetti interessanti sono la gestione di diverse strutture a questo progetto sono passati diversi contenuti in formato JSON in realtà quindi quei contenuti che Fabio avete visto Vengono messi dentro al nostro database dei contenuti con domande e risposte.
+
+154:06
+nunzio fiore
+Qui erano messi con domande e il relativo JSON che dava la risposta.
+
+154:12
+nunzio fiore
+Poi era stato applicato il fatto di rispondere sempre con la e-generativa.
+
+154:17
+nunzio fiore
+e fare in maniera tale che lui non dava una risposta quando si sentiva sicuro mostrando il JSON, ma usava il JSON come dato dinamico a seconda di quello che si stava chiedendo.
+
+154:28
+nunzio fiore
+Quindi era un modo alternativo di utilizzare la RAG, non le funzioni, ma con i dati che venivano sincronizzati nottetempo con il loro database Oracle di tutti gli hotel.
+
+154:43
+nunzio fiore
+Altri progetti che stanno funzionando molto bene, oltre le aspettative, sono questi.
+
+154:50
+nunzio fiore
+Ribadisco sempre con modelli evoluti come Cloud, dove una cosa che è importante capire è che il modello linguistico è stato addestrato con le parole.
+
+155:01
+nunzio fiore
+Quindi lui non sa che uno più uno fa due, ma è abituato a leggere che dopo l'uno, dopo il più, dopo l'uno, dopo l'uguale, c'è spessissimo un due.
+
+155:11
+nunzio fiore
+E quindi mette il due.
+
+155:14
+nunzio fiore
+Quindi si dice che il modello linguistico non sa far di conto, però la cosa sorprendente dei modelli linguistici evoluti è che in realtà ci sanno fare.
+
+155:26
+nunzio fiore
+Stanno utilizzando i nostri clienti a cui passano al modello linguistico l'XML di un bilancio e poi se lo fanno analizzare e queste analisi, che loro gli hanno detto che regole applicare per fare le analisi, sono veramente molto precise.
+
+155:41
+nunzio fiore
+E quindi questa cosa qua è veramente molto interessante.
+
+155:47
+nunzio fiore
+Il fatto di avere la tua piattaforma lo puoi utilizzare sia internamente che esternamente.
+
+155:54
+nunzio fiore
+Quindi do una I che parla del mio progetto ai clienti.
+
+155:59
+nunzio fiore
+ma ho anche un AI per fare da PM companion che si interfaccia a Jira, legge il backlog, scrive i task su Jira e mi aiuta a scrivere il task nella maniera Scrum più precisa.
+
+156:11
+nunzio fiore
+Anche se il PM magari scrive un testo molto prolisso, lui lo trasforma in uno Scrum con Accept and Test e quant'altro.
+
+156:20
+nunzio fiore
+Quindi i nostri clienti stanno facendo progetti anche evoluti da questo punto di vista.
+
+156:27
+nunzio fiore
+Il fatto di avere il pensiero propondo e la memoria si ricorda dei progetti, ti aiuta a scrivere meglio gli user story e si ricorda cosa stai facendo, come si sta evolvendo il tuo progetto.
+
+156:38
+nunzio fiore
+Così come abbiamo, appunto, diverse integrazioni, che vedremo meglio nelle prossime lezioni, all'interno dei programmi esistenti, dove, come l'esempio che aveva detto Fabio, faceva vedere il messaggio nascosto che diceva qual era l'emozione lanciare qui è un configuratore sartoriale che nei messaggi nascosti dice quali sono le cose materiali o modelli da applicare al modello 3D che è accanto alla conversazione e quindi lui ti risponde, mette quali sono, il listener legge la risposta e poi passa il comando al configuratore ed ecco che noi abbiamo dei configuratori che si muovono da soli questo ad esempio Fabio è proprio il tipo di progetto dove vi coinvolgeremo perché noi abbiamo un configuratore di mobili e abbiamo questa nostra capacità.
+
+157:30
+nunzio fiore
+Noi faremo figurare che molto del lavoro che faremo lo dobbiamo ancora fare così ci prendiamo i soldi del bando, ma in realtà la parte che manca e riusciremo a fare la faremo insieme a voi perché servirà avere dei modelli locali che generano, data una conversazione, anche un modello 3D e delle immagini magari che fanno un video 360 o una serie di immagini basate su magari una collezione di mobili di un certo tipo come supporto all'utente perché possa essere ispirato per nuove creazioni, nuovi modelli.
+
+158:08
+nunzio fiore
+Questo programma qua riusciamo a farlo grazie ad Aizuru perché ha questo widget evoluto che vedremo bene nelle prossime lezioni che usa il testo ma può essere agganciato per lanciare comandi ora qua ora là e scatenarti.
+
+158:23
+nunzio fiore
+Se uno dice mi fai vedere una sedia simile a quella lì di questo modello ma che sia a forma di banana, lui saprà che deve lanciare una chiamata al servizio che faremo con voi e che dovrà dare in output quella sedia banana.
+
+158:49
+nunzio fiore
+Grazie alle funzioni, ai contesti ampi, al fatto di non perdersi niente, noi non stiamo più importando spesso dei documenti nella RAG, ma facciamo interrogare l'intero manuale o documento durante la conversazione.
+
+159:03
+nunzio fiore
+Questo ci ha dato dei vantaggi incredibili, perché la RAG cosa ti permette di fare?
+
+159:08
+nunzio fiore
+Ti permette di avere una domanda, una risposta e saper rispondere a quel tipo di domanda, cercando però tu di prevedere una domanda e rispondendo in maniera didattica.
+
+159:18
+nunzio fiore
+invece noi abbiamo passato ad esempio la conoscenza di una determinata legge passata attraverso le funzioni ed ecco che io posso chiederle mi trovo in questa condizione cosa devo fare e lei sa applicarti il testo che ha letto per aiutarti a rispondere applicando la soluzione come se avesse letto e compreso il testo quindi con i manuali diventa interessante perché Se io ho bisogno di estrarre il numero del telefono del cliente e lui si legge da dove in che punto c'è questa cosa, riesce a leggere il manuale e mettermi anche il link per andare a una determinata sezione.
+
+159:57
+nunzio fiore
+Tant'è che vedrete che alcune nostre AI possono essere messe dentro una interfaccia e ti aiutano a navigare all'interno del programma.
+
+160:09
+nunzio fiore
+Ci sono altri nostri clienti che li stanno utilizzando per aiutare alla creazione di business model, comparare prodotti tra di loro.
+
+160:17
+nunzio fiore
+Il nostro widget mostra dell'HTML e lo renderizza, quindi la cosa interessante è che vedete che qui c'è una tabella con delle cose messe in rosso eccetera, perché applica un determinato algoritmo e la risposta noi la interpretiamo, ma il testo che sta tirando fuori le LM, se lo andassimo a vedere, è HTML.
+
+160:40
+nunzio fiore
+Addirittura noi gli abbiamo passato, siamo andati in un caso a prendere una libreria CSS per fare grafici.
+
+160:49
+nunzio fiore
+Abbiamo fatto immaginare che lui sappia iniettare questo CSS all'inizio della conversazione e gli abbiamo passato, visto che è scritto bene, su GitHub tutti i progetti hanno il loro readme scritto in Markdown, quindi non c'è troppo testo fuorviante, ma c'è solo quello che serve scritto nel modo più preciso possibile.
+
+161:09
+nunzio fiore
+Abbiamo passato il markdown di come si utilizza quella libreria ed ecco che lei ha iniziato a generare dei grafici direttamente dentro la conversazione.
+
+161:21
+nunzio fiore
+Quindi tu puoi arrivare a personalizzarti lei tantissimo e fargli fare quello che vuoi perché il nostro widget interpreta i risultati creati runtime in HTML, CSS o se deve lanciare altre chiamate.
+
+161:41
+nunzio fiore
+Dove è finito?
+
+161:42
+nunzio fiore
+Ok.
+
+161:48
+nunzio fiore
+Altri casi che...
+
+161:50
+nunzio fiore
+Andiamo avanti.
+
+161:52
+nunzio fiore
+quindi si possono andare a leggere informazioni da determinati link grazie alle funzioni così come abbiamo creato delle guide a delle mostre abbiamo fatto con Lenovo stiamo lavorando a questo supporto per i seis che vanno a leggere i listini e ai distributori, ne è passata questa I che aiuterà quindi a saper vendere meglio i prodotti E quindi ha saputo rispondere a domande anche del tipo, ho bisogno di questo tipo di cose, quali prodotti mi consigli?
+
+162:27
+nunzio fiore
+Questo è il test che a Lenovo ci ha aperto le porte di Lenovo, perché hanno detto, i nostri distributori non sono così bravi, quindi vi permetterà di avere un agente che legge il listino, sa quali prodotti stai spingendo, sai come aiutarti a giustificare un determinato prodotto, Magari ti compone una mail e magari la invia direttamente al cliente nello stile con cui tu gli hai spiegato di scriverti le mail.
+
+162:52
+nunzio fiore
+Ecco, questi sono gli usi reali.
+
+162:55
+nunzio fiore
+Questo lo conoscete bene con Fabio perché grazie al widget di iZuru è possibile integrarlo dentro a quelli che si chiamano Learning Management System e l'abbiamo fatto proprio in BNL proprio perché è un widget che scatena e riceve eventi e quindi può essere integrato perché viene iniettato dentro l'interfaccia, non è nei frame, e quindi parla completamente con l'interfaccia che lo sta ospitando.
+
+163:23
+nunzio fiore
+Abbiamo diverse clienti che fanno delle ulteriori piattaforme su cui espongono alcuni dei twin che solo il team di iCreator fa e mantiene e li espongono a tutti gli altri utenti a seconda dei loro ruoli.
+
+163:35
+nunzio fiore
+Abbiamo la possibilità di arrivare ad applicare anche formule matematiche complesse, così come generare, come vedevamo prima, i quiz e i pass HTML che ti assicurano che per oggi hai superato il test per poter iniziare a fare un certo lavoro.
+
+163:55
+nunzio fiore
+O viene giudicato il risultato di un tuo quiz e allora ti dice se devi rifare una determinata attività.
+
+164:08
+nunzio fiore
+Abbiamo passato degli Excel che vengono interpretati molto bene durante le funzioni e allora a quel punto una AI riesce a guidarti anche su tutte le varie fasi descritte in un Excel complesso per la progettazione ad esempio di un ponte, quindi progetti anche ad alto rischio, cosa che la IACT tiene molto da conto e quindi E' interessante che, ad esempio, questo cliente vuole farsi proprio un AI, come faremo insieme ai nostri legali, esperta di IACT, in modo tale che tu gli possa chiedere, ho questo progetto, c'è qualcosa che devo tenere conto prima di partire?
+
+164:45
+nunzio fiore
+E lui ti risponderà che per l'IACT devi tenere conto di questo e quest'altro argomento, quindi diventa un supporto anche su questo fronte.
+
+164:54
+nunzio fiore
+Può essere integrata in qualsiasi web app in tantissimi modi, da in basso a destra vedremo anche altre tipologie di integrazione nei prossimi giorni, addirittura ci si parla dentro alla realtà virtuale.
+
+165:06
+nunzio fiore
+Questa era la prima versione della nostra AI di Giovanna per BNL che teneva i corsi su come si devono dare i feedback alle persone.
+
+165:15
+nunzio fiore
+Possono essere generati dei contenuti che descrivono un determinato processo o un documento a runtime e mettendoci in ascolto su questi sistemi dove un tag nascosto dice guarda ho creato questo contenuto io posso anche mantenere un database con i dati che vengono creati in quel momento.
+
+165:34
+nunzio fiore
+E a quel punto diventa interessante perché tutte le AI condividono una conoscenza che si va a creare mentre sto chiacchierando con le AI stesse.
+
+165:43
+nunzio fiore
+Questo è un nostro cliente che sta mettendo a piano un sacco di AI per una sorta di sistema operativo AI, di AI che parlano tra di loro, quindi agenti che parlano tra di loro, e le persone riescono ad accedere e sfruttare la stessa conoscenza perché è tutta condivisa tra le diverse AI in questa maniera qua.
+
+166:04
+nunzio fiore
+Nelle prossime lezioni vediamo come si vanno a fare questo tipo di diariche, panel quiz, eccetera.
+
+166:10
+nunzio fiore
+Online trovate l'AIE fatta dal nostro distributore che va a parlare in tutte le lingue e parla del Marconi Express.
+
+166:18
+nunzio fiore
+Quindi sul sito del Marconi Express trovate questa qua in produzione.
+
+166:23
+nunzio fiore
+Ecco che questa era una carellata su tanti utilizzi reali.
+
+166:28
+nunzio fiore
+Ce ne sarebbero ancora tantissimi e li vedremo magari mano a mano che andiamo avanti.
+
+166:33
+nunzio fiore
+ma quello che è importante nella prima giornata trasmettere è come si struttura un progetto conversazionale, un agente.
+
+166:42
+nunzio fiore
+E quindi, le cose che devi tenere da conto.
+
+166:46
+nunzio fiore
+Devi tenere da conto di chi è la persona che va a parlare con la tua AI, che conoscenza ha, sa già tutto di quell'argomento, non ne sa niente.
+
+166:55
+nunzio fiore
+Quindi, cosa deve sapere l'AI?
+
+166:57
+nunzio fiore
+Deve dare per scontate delle cose o deve spiegarle in un certo modo?
+
+167:01
+nunzio fiore
+Quali contenuti ho a disposizione per l'AI?
+
+167:04
+nunzio fiore
+Sono dei documenti bellissimi, ma tutte immagini che non vogliono dire niente.
+
+167:08
+nunzio fiore
+Allora dovrò trasformarli.
+
+167:09
+nunzio fiore
+Anche se sentite parlare spesso di modelli multimodali, che prendono in ingresso video e immagini, in realtà è un trucco.
+
+167:17
+nunzio fiore
+In realtà è sempre un programma che trasformerà quel sito, cioè quell'immagine o altro, o video, in testo.
+
+167:27
+nunzio fiore
+Verrà passato a un modello linguistico che poi saprà darti una risposta.
+
+167:31
+nunzio fiore
+Quindi è un modo scaltro di trasformare comunque questi contenuti in qualcosa che siano sempre parole.
+
+167:40
+nunzio fiore
+Il modo migliore è quindi organizzare noi i testi in modo tale che siano comprensibili dalla macchina e capire quali sono le conversazioni.
+
+167:49
+nunzio fiore
+Quindi, come dicevo, ci si interroga chi interrogerà lato A e identifica da subito come hai detto, noi consigliamo di identificare subito chi è il tuo stakeholder, in modo tale che lui sarà subito coinvolto nel validare i contenuti della tua AI.
+
+168:08
+nunzio fiore
+Può essere la persona che non ne sa niente, ma è lei che fa delle domande migliori di noi che ne sappiamo tutto, quindi deve essere coinvolta per questo motivo nel progetto fin da subito.
+
+168:17
+nunzio fiore
+Valuta i contenuti, e il quanto testo hai a disposizione per poter capire se vengono aggiornati spesso, se sono contenuti fissi, quindi posso passagli dentro a un prompt o a un demand, se serve, quando passagli.
+
+168:34
+nunzio fiore
+Questa è una fase che ad esempio sui progetti locali è molto delicata, perché sui progetti locali abbiamo la necessità di strutturare il prompt che passeremo al nostro modello in modo tale che non sia prolisso passandogli di tutto.
+
+168:49
+nunzio fiore
+e quindi bisogna veramente valutare molto bene quali sono i contenuti in modo tale che domani che passerò al mio modello locale non avrò un calo di prestazioni sia nella qualità di risposta che nella poter dare risposta a più persone contemporaneamente, ma devo strutturarle in modo tale che siano puliti e chiamati solo al bisogno.
+
+169:12
+nunzio fiore
+Devo chiedermi qual è la conversazione che terrà la mia AI.
+
+169:16
+nunzio fiore
+Qui viene comodo il fatto di essere più creativi più che tecnici, quindi immaginarsi una sorta di sceneggiatura, quindi la persona dice, la AI risponde, e scriversi qual è la conversazione che io voglio soddisfare, in modo tale che capisci anche da dove attingere le informazioni, se ci sono già nella conoscenza della AI, se io dovrò andarle a prendere, passagliele in qualche altro modo.
+
+169:44
+nunzio fiore
+E i prompt sono efficaci quando sono scritti appunto in maniera chiara, che sono scritti con degli esempi, in modo tale che l'AI sappia qual è il tuo modo di andare a scrivere.
+
+169:55
+nunzio fiore
+Andiamo a fare questo esempio quindi.
+
+169:56
+nunzio fiore
+Immaginiamo uno scenario in cui l'utente chiede all'AI di aiutarla a pianificare un evento aziendale.
+
+170:02
+nunzio fiore
+Qui vedete una conversazione.
+
+170:04
+nunzio fiore
+Quindi è poco una sceneggiatura.
+
+170:05
+nunzio fiore
+L'utente chiede questo, l'AI risponde questo.
+
+170:08
+nunzio fiore
+Per far sì che l'AI risponda in questo modo, il prompt da scrivere è questo qua.
+
+170:15
+nunzio fiore
+Sei un esperto consulente, vedete che è molto pulito, fatto per punti e fatto in un certo modo.
+
+170:20
+nunzio fiore
+Quindi sei un esperto consulente specializzato in questo e le linee guide della tua conversazione sono che prima di tutto raccogli le informazioni, quindi dovrai chiedere queste cose e così via.
+
+170:31
+nunzio fiore
+Devi fare problem solving, ricordati il tuo ruolo è guidare l'utente.
+
+170:34
+nunzio fiore
+Vedete che è scritto in maniera pulita, precisa e puntuale, cercando di non lasciare niente di interpretabile.
+
+170:45
+nunzio fiore
+Qui è un punto importante della presentazione del primo giorno, perché arriviamo qui dove abbiamo detto che dovete imparare a scrivere in questa maniera.
+
+170:52
+nunzio fiore
+Poi in realtà mostriamo che c'è un trucco.
+
+170:55
+nunzio fiore
+Laddove uno dica, sì ma io sono un tecnico e non c'ho fantasia, e ne abbiamo avuti alcuni sviluppatori che sostengono di non averla.
+
+171:01
+nunzio fiore
+In realtà non era vero, perché alla fine hanno fatto dei progetti bellissimi, perché gli abbiamo fatto capire che la fantasia è solo un muscolo da allenare.
+
+171:12
+nunzio fiore
+Io per scrivere quel prompt di prima cosa ho fatto?
+
+171:14
+nunzio fiore
+Vado da una ISTessa, a noi abbiamo fatto una I che si chiama Metaprompt, a cui dico sto facendo delle slide per spiegare come costruire un prompt di sistema partendo dalle conversazioni.
+
+171:27
+nunzio fiore
+Immagina questa conversazione, scrivi il prompt più adatto perché la mia IST sappia gestire questo tipo di interazione.
+
+171:35
+nunzio fiore
+E lei ecco che mi ha fornito quel prompt che avete visto nella slide precedente.
+
+171:42
+nunzio fiore
+L'AI è da utilizzare anche per utilizzare l'AI al meglio.
+
+171:48
+nunzio fiore
+Passandoli tutte le informazioni, lei saprà guidarti anche a scrivere il prompt stesso il migliore possibile, perché capisce quali sono le cose a cui tu tieni durante la conversazione.
+
+172:00
+nunzio fiore
+Quindi ci sono tanti modi per arrivare a scrivere un prompt.
+
+172:06
+nunzio fiore
+consigliato appunto di partire da capire chi è il tuo interlocutore, quali sono i tuoi contenuti, quali sono le conversazioni che vuoi sostenere.
+
+172:12
+nunzio fiore
+Se poi dopo riesci a scriverti anche una bozza di prompt, meglio ancora, se no già con questo puoi aiutarti con l'AI stessa a iniziare a scrivere i prompt di sistema.
+
+172:24
+nunzio fiore
+i dati quindi d'ingresso sono da organizzare in modo tale che siano ridotti, perché comunque per tanti che siano 128k di token non sono infiniti, quindi devi ridurli, perché la conversazione mano a mano che va avanti, come diceva anche prima Fabio, aumenta il testo occupato della conversazione, quindi il rischio è che vai fuori contesto e delle cose finiscono dimenticate, quindi cerca di tenere sempre sotto controllo la lunghezza dei tuoi contenuti.
+
+172:52
+nunzio fiore
+Strutturali è meglio, elimina tutto quello che è eccessivamente ridondante, semplificali in modo tale che siano chiari anche a una macchina.
+
+173:01
+nunzio fiore
+Torna di moda il notepad, dove scrivo senza troppa formattazione e scrivo un testo.
+
+173:09
+nunzio fiore
+Il formato migliore è il markdown, che ti dice se è una cosa importante, ci mette un asterisco e quella vuol dire che è in grassetto.
+
+173:18
+nunzio fiore
+e se una cosa è un link ti mette una formattazione che te lo fa capire.
+
+173:23
+nunzio fiore
+I nostri nuovi agenti hanno delle funzioni che possono attivare una navigazione che trasformano ad esempio un sito web in markdown togliendo tutti i CSS, leader, etc.
+
+173:36
+nunzio fiore
+Questo è il modo che consigliamo ai clienti di implementarsi l'accesso alle informazioni.
+
+173:42
+nunzio fiore
+Usa elenchi puntati e così via.
+
+173:46
+nunzio fiore
+Quindi siamo arrivati, facendo un viaggio velocissimo, ai concetti chiave di questa giornata, che sono quelli che appunto andiamo a ribadire qua.
+
+173:55
+nunzio fiore
+Interagire con un LLM sembra un dialogo, ma è completamente di un testo.
+
+173:59
+nunzio fiore
+E questo ti sblocca il cervello capire questa cosa qua, che non ci stai parlando, non ti sta rispondendo.
+
+174:04
+nunzio fiore
+State scrivendo insieme un testo.
+
+174:07
+nunzio fiore
+Gli LLM non navigano.
+
+174:10
+nunzio fiore
+L'LLM è una conoscenza solo fino a una certa data, tutto quello che è successivo bisogna passagliare in qualche modo.
+
+174:17
+nunzio fiore
+Questo tipo di tecnologia varia costantemente, quindi bisogna tenersi aggiornati.
+
+174:22
+nunzio fiore
+Se domani scomparissero gli LLM, avremmo comunque ottenuto dei miglioramenti, una migliore strutturazione della nostra documentazione.
+
+174:29
+nunzio fiore
+Renderà la e-readable, qualsiasi documento che scrivi, significa scriverlo in maniera comprensibile, nei concetti e nella forma, senza dare nulla per scontato.
+
+174:38
+nunzio fiore
+Imparare a formulare domande, rendendole finalizzate o ottenere delle risposte desiderate.
+
+174:46
+nunzio fiore
+Noi abbiamo proposto un piccolo glossario alla fine della giornata, ma quello che avevamo detto all'inizio è disegnarsi le parole che non si conoscono, perché i compiti per la settimana dopo, quando si tiene la seconda lezione, sono proprio che durante quella settimana la persona dovrà fare un tot di cose, dovrà scegliere qual è il progetto conversazionale che vuole portare avanti.
+
+175:10
+nunzio fiore
+partendo da tutti gli esempi visti, o hai un task, un lavoro, scrivi dei documenti, fai delle cose, dell'attività tutti i giorni di un certo tipo, allora inizia a pensare a questo, perché poi noi diamo a tutti, lo daremo adesso anche a voi, Vi registrerete a Isuru e noi vi daremo 500 crediti per utilizzarli durante le cinque giornate di corso per fare i vostri test, sfruttando tutte le possibilità dalla realtà virtuale a pensiero profondo, eccetera.
+
+175:43
+nunzio fiore
+Individua chi sono le persone che parleranno con la tua AI, individua quindi qual è il linguaggio, cosa dire, ma soprattutto cosa non deve dire.
+
+175:51
+nunzio fiore
+divido quali sono i tuoi contenuti a disposizione, da siti, servizi, documenti, e scrivi almeno tre conversazioni che potrebbe tenere la tua E, come una sceneggiatura, l'utente dice e la E risponde.
+
+176:03
+nunzio fiore
+Questo ci aiuterà a iniziare i primi progetti già dalla seconda lezione.
+
+176:07
+nunzio fiore
+E poi un altro esercizio che chiediamo alle persone di fare è costruisciti un prompt con le parole che ti sei annotato, come concetti e parole complesse, e che quindi, passato a una I, sappia spiegarteli con gli esempi e termini che più possono essere comprensibili alla tua persona.
+
+176:23
+nunzio fiore
+Quindi, ad esempio, io sono un esperto di marketing, ho seguito l'Aizuru AI Academy, ho preso nota di questi concetti, ma completa te adesso questo prompt come esercizio, perché il risultato sia che lei ti ha scritto un glossario di quello che oggi non hai capito nel migliore dei modi.
+
+176:39
+nunzio fiore
+E da qui ci si vede alla lezione successiva che noi faremo dopo pranzo, dove si inizierà a guardare Aizuru.
+
+176:49
+nunzio fiore
+Visto che abbiamo pochissimi minuti, se avete comunque delle domande, cosa ne pensate della prima giornata, vi torno come impostazione, curiosità, direi che fino a luna ci sono.
+
+177:04
+fabio lecca
+Ok, Robert, per me è tutto chiaro.
+
+177:06
+fabio lecca
+Io ho messo il link a quello che dicevi di Marconi Experts, perché chiaramente noi stando su Roma non sappiamo che l'aeroporto di Bologna si chiama aeroporto Marconi, Per noi è Leonardo Express, i problemi di contesto nel dialogo.
+
+177:24
+nunzio fiore
+Ma potete, magari se indoviduate degli errori, ditelo ad Ex Machina, che così li va a sistemare.
+
+177:31
+nunzio fiore
+E quando poi dopo le avete vista, potete proporlo anche voi a Leonardo Express, dicendo che possiamo farlo anche noi.
+
+177:40
+nunzio fiore
+Esatto.
+
+177:45
+fabio lecca
+Per quanto mi riguarda mi sembra tutto molto coerente.
+
+177:51
+fabio lecca
+Hai citato tante volte Pensiero Profondo, non vedo l'ora che glielo fai vedere perché potrebbe essere una cosa che è rimasta un po' nel dubbio, però lo vedremo dopo, penso.
+
+178:06
+nunzio fiore
+Lo vedremo sicuramente dopo e nelle prossime andiamo molto più a fondo su tutti i concetti.
+
+178:13
+nunzio fiore
+Questa però è proprio la prima lezione che si terrebbe anche in BNL.
+
+178:18
+nunzio fiore
+Vedete che anche se ci sono concetti tecnici, il racconto è molto ad alto livello.
+
+178:23
+fabio lecca
+Sì, sì, un po'.
+
+178:25
+nunzio fiore
+Ed è per far capire che ha la portata di tutti.
+
+178:28
+nunzio fiore
+Però è giusto comprendere il mondo che abbiamo davanti?
+
+178:32
+nunzio fiore
+perché arriveremo ad avere dei lei che ci suggeriscono prodotti, che ci dicono cose e noi non possiamo esserne vittime.
+
+178:40
+nunzio fiore
+Vi faccio vedere un post che avevo fatto durante le vacanze su LinkedIn e anche su Facebook, ma che ritengo possa essere interessante.
+
+179:00
+nunzio fiore
+Questo post qua.
+
+179:03
+nunzio fiore
+perché fai così allora proviamoci che aiuta a capire come faccio ad andare esattamente a questo posto non si riesce a capire c'è quello che dico in questo posto è che c'è una guerra in atto C'è una guerra in atto su Facebook fatta di persone che facocitano persone bot che creano bot adesso che hanno tolto il fact checking sarà la morte dove ci sono una valanga di immagini tutte generate dalla AI e post completamente generati dalla AI non ci sono persone dietro e gente completamente impreparata che ne è completamente vittima.
+
+180:06
+nunzio fiore
+C'era una teoria che parlava del fatto che internet in realtà è morto da anni e che sia tutto finto quello che è online, cioè si sta autoavverando questa teoria.
+
+180:18
+nunzio fiore
+Bot che rispondono a bot e noi siamo lì soltanto a guardare.
+
+180:22
+nunzio fiore
+e nessuno è preparato a fare queste cose, dovrebbe diventare istituzionale fare formazione sull'AI, per questo a noi piace molto l'IACT, perché dovrebbe diventare qualcosa che deve diventare dalle scuole, ma ai genitori, ai nonni, ai figli, perché con tutto quello che abbiamo visto in questa presentazione si capiscono le truffe di bot vocali che ti mandano video o audio di nonno sono in pericolo fanno un bonifico e queste cose qua è un mondo tristemente reale e quindi il nostro approccio passa dalla formazione proprio per questo perché dobbiamo avere le armi per poter capire questo mondo e non fare come coi social che solo dopo tanti anni abbiamo capito, a cavolo, ecco perché era gratis, perché la merce ero io.
+
+181:14
+nunzio fiore
+Qui è lo stesso scenario.
+
+181:23
+nunzio fiore
+Ci ritroviamo dopo con la giornata due allora.
+
+181:29
+fabio lecca
+Va bene.
+
+181:31
+fabio lecca
+Ci sentiamo alle due.
+
+181:33
+fabio lecca
+Grazie.
+
+181:33
+nunzio fiore
+Ciao.
+
+181:34
+nunzio fiore
+Ciao.
+

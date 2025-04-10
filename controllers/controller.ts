@@ -1,4 +1,5 @@
 import { Request, Response } from "express";
+import path from "path";
 
 const test1 = async (req: Request, res: Response) => {
   console.log("=== test1 started ===");
@@ -6,10 +7,19 @@ const test1 = async (req: Request, res: Response) => {
   const params = req.params
   const query = req.query
   try {
-    console.log("test1 body", body)
-    console.log("test1 params", params)
-    console.log("test1 query", query)
-    res.send("test1 success")
+    console.log("body", body)
+    console.log("params", params)
+    console.log("query", query)
+    const filePath = "assets/AISuru AI Academy giorno 1 mattina.txt"
+    res.sendFile(path.join(__dirname, '..', filePath), (err) => {
+      if (err) {
+        console.error('Error sending file:', err)
+        res.status(err instanceof Error && 'status' in err ? (err as any).status : 500).end()
+      }
+      else {
+        console.log('File sent successfully')
+      }
+    })
   } catch (error) {
     console.error('test1 failed:', error)
     res.status(404).send('test1 failed')

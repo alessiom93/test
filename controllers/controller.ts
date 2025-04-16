@@ -11,6 +11,8 @@ const test1 = async (req: Request, res: Response) => {
     console.log("params", params)
     console.log("query", query)
     const filePath = "assets/AISuru AI Academy giorno 1 mattina.txt"
+    res.send("una riunione su aisuru")
+    /*
     res.sendFile(path.join(__dirname, '..', filePath), (err) => {
       if (err) {
         console.error('Error sending file:', err)
@@ -20,6 +22,7 @@ const test1 = async (req: Request, res: Response) => {
         console.log('File sent successfully')
       }
     })
+    */
   } catch (error) {
     console.error('test1 failed:', error)
     res.status(404).send('test1 failed')

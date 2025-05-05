@@ -1218,21 +1218,9 @@ Noi utilizziamo dei prompt che Fabio e gli altri avevano visto anche nei dettagl
 nunzio fiore
 Il risultato però di tutto questo lavoro, e dopo ne vedremo diversi esempi, è che abbiamo delle risposte veramente molto precise e che il nostro modo di interrogare l'LLM porta le persone a poter avere degli agenti che iniziano a funzionare veramente molto bene fin da subito.
 
-65:15
-nunzio fiore
-Adesso facciamo magari una pausa di un quarto d'ora, E poi dopo ti ritroviamo magari su questo link, a meno che non scada.
-
-65:23
-fabio lecca
-Sì, sì, tanto il link dura tutto il tempo che vogliamo.
-
-65:27
-nunzio fiore
-Ok, allora io metto in pausa soltanto microfono e telecamera e ci troviamo qua tra le 11.
-
 65:30
 marco rossi
-Il gelato che ho comprato ieri a pranzo era molto buono
+Secondo me gli LLM sono molto promettenti.
 
 65:33
 fabio lecca

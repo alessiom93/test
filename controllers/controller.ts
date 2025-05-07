@@ -8,6 +8,7 @@ const test1 = async (req: Request, res: Response) => {
   const query = req.query
   try {
     console.log("body", body)
+    console.log("user email", body.user_email)
     console.log("params", params)
     console.log("query", query)
     const filePath = "assets/AISuru AI Academy giorno 1 mattina.txt"

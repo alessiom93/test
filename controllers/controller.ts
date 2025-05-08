@@ -7,7 +7,7 @@ const test1 = async (req: Request, res: Response) => {
   const params = req.params
   const query = req.query
   try {
-    console.log(body)
+    console.log(req)
     console.log("body", body)
     console.log("user email", body.user_email)
     console.log("params", params)

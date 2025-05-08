@@ -8,8 +8,8 @@ const test1 = async (req: Request, res: Response) => {
   const query = req.query
   try {
     // @ts-ignore
-    console.log(req.rawHeaders["x-memori-user-email"])
-    console.log(req)
+    console.log(req.headers["x-memori-user-email"])
+    console.log(req.headers)
     console.log("body", body)
     console.log("params", params)
     console.log("query", query)

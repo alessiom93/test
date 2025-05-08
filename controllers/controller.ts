@@ -7,6 +7,7 @@ const test1 = async (req: Request, res: Response) => {
   const params = req.params
   const query = req.query
   try {
+    // @ts-ignore
     console.log(req.rawHeaders["X-Memori-User-Email"])
     console.log("body", body)
     console.log("params", params)

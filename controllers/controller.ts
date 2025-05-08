@@ -9,6 +9,7 @@ const test1 = async (req: Request, res: Response) => {
   try {
     // @ts-ignore
     console.log(req.rawHeaders["x-memori-user-email"])
+    console.log(req)
     console.log("body", body)
     console.log("params", params)
     console.log("query", query)

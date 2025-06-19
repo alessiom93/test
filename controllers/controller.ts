@@ -30,7 +30,7 @@ const test1 = async (req: Request, res: Response) => {
   console.log("--- test1 done ---");
 };
 
-const test1 = async (req: Request, res: Response) => {
+const test2 = async (req: Request, res: Response) => {
   console.log("=== test2 started ===");
   const body = req.body
   const params = req.params

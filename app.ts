@@ -4,6 +4,7 @@ const morgan = require("morgan");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 import router from "./routes/router";
+const multer = require('multer');
 
 require("dotenv").config(); // per variabili d'ambiente (.env)
 
@@ -48,6 +49,20 @@ app.use("/router", router);
 // version
 app.get("/version", (req: Request, res: Response) => {
   res.send("1.0.0");
+});
+
+//pass file upload middleware
+const storage = multer.memoryStorage();
+const upload = multer({ storage });
+app.post('/upload', upload.single('file'), (req: any, res: any) => {
+  // Access the file buffer
+  const fileBuffer = req.file.buffer;
+
+  // Process the file (e.g., parse, send to another service, etc.)
+  console.log(`Received file: ${req.file.originalname}`);
+  console.log(`File size: ${req.file.size} bytes`);
+
+  res.send('File received and processed in memory!');
 });
 
 // catch 404 and forward to error handler

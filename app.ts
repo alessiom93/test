@@ -43,18 +43,19 @@ app.use(function (req: Request, res: Response, next: NextFunction) {
   // Pass to next layer of middleware
   next();
 });
-
+/*
 app.use("/router", router);
 
 // version
 app.get("/version", (req: Request, res: Response) => {
   res.send("1.0.0");
 });
-
+*/
 //pass file upload middleware
 const storage = multer.memoryStorage();
 const upload = multer({ storage });
 app.post('/upload', upload.single('file'), (req: any, res: any) => {
+  console.log('multer called');
   // Access the file buffer
   const fileBuffer = req.file.buffer;
 

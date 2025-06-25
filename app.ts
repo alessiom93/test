@@ -57,10 +57,6 @@ const upload = multer({ storage });
 app.post('/upload', upload.single('file'), (req: any, res: any) => {
   console.log('multer called');
   console.log("Altri campi:", req.body);
-  console.log(req.body.dataInizio);
-  console.log(req.body.societaItalmatch);
-  console.log(req.body.emailReferenteControparte);
-  console.log(req.body.tipoNDA);
   // Access the file buffer
   const fileBuffer = req.file.buffer;
 

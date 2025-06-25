@@ -56,6 +56,7 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage });
 app.post('/upload', upload.single('file'), (req: any, res: any) => {
   console.log('multer called');
+  console.log("Altri campi:", req.body);
   // Access the file buffer
   const fileBuffer = req.file.buffer;
 

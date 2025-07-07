@@ -44,7 +44,6 @@ app.use(function (req: Request, res: Response, next: NextFunction) {
   next();
 });
 /*
-app.use("/router", router);
 
 // version
 app.get("/version", (req: Request, res: Response) => {
@@ -66,6 +65,8 @@ app.post('/upload', upload.single('file'), (req: any, res: any) => {
 
   res.send('File received and processed in memory!');
 });
+
+app.use("/router", router);
 
 // catch 404 and forward to error handler
 app.use(function (req: Request, res: Response) {
